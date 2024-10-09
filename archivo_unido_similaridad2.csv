@@ -1,0 +1,725 @@
+player_name,transfer_date,team_from,team_to,market_value,transfer_value,player_id,player_transfer_id,transferId,type,currency,playerId,ID_comparacion
+AJ Cochran,2016-03-06,Houston,St. Louis FC,250000,0,306391,201603064115306391,237878,Transfer,,300553,aj cochran_houston_st. louis_2016_3
+AJ Cochran,2021-02-17,Phoenix Rising,Indy Eleven,250000,0,306391,202102174115306391,1156285,Transfer,EUR,300553,aj cochran_phoenix rising_indy eleven_2021_2
+AJ Cochran,2018-01-24,St. Louis FC,ATL UTD 2,150000,0,306391,201801244115306391,563640,Free Agent,EUR,300553,aj cochran_st. louis_atl utd 2_2018_1
+AJ Cochran,2018-12-25,ATL UTD 2,Phoenix Rising,175000,0,306391,201812254115306391,695487,Free Transfer,EUR,300553,aj cochran_atl utd 2_phoenix rising_2018_12
+AJ Cochran,2023-02-02,Indy Eleven,Charleston,175000,0,306391,202302024115306391,1865206,Transfer,EUR,300553,aj cochran_indy eleven_charleston_2023_2
+AJ Marcucci,2024-12-31,IF Gnistan,New York,250000,NA,884244,20241231623884244,2315328,Back from Loan,EUR,743532,aj marcucci_if gnistan_new york_2024_12
+AJ Marcucci,2021-04-15,Without Club,NY Red Bulls II,NA,NA,884244,20210415623884244,1212041,Free Transfer,EUR,743532,aj marcucci_without_ny red bulls ii_2021_4
+AJ Marcucci,2021-09-11,NY Red Bulls II,New York,NA,NA,884244,20210911623884244,2218403,Transfer,EUR,743532,aj marcucci_ny red bulls ii_new york_2021_9
+AJ Marcucci,2024-07-21,New York,IF Gnistan,150000,NA,884244,20240721623884244,2315327,Loan,EUR,743532,aj marcucci_new york_if gnistan_2024_7
+Aadil El Gachbour,2019-07-01,Unknown,L-Montlhéry B,NA,NA,735602,2019070167066735602,866356,Free Transfer,EUR,650775,aadil gachbour_unknown_l-montlhery b_2019_7
+Aafreen Basharat Parray,2024-07-23,Rainbow AC,Downtown Heroes,NA,NA,1120334,20240723904961120334,2005963,Free Transfer,EUR,955918,aafreen parray_rainbow ac_downtown heroes_2024_7
+Aafreen Basharat Parray,2023-10-25,Downtown Heroes,ARA FC,NA,NA,1120334,20231025904961120334,2005963,Free Transfer,EUR,955918,aafreen parray_downtown heroes_ara_2023_10
+Aaren D'Silva,2017-07-01,Santa Cruz Club,Goa II,NA,0,630382,2017070176364630382,2005445,Transfer,EUR,703579,aaren d'silva_santa cruz_goa ii_2017_7
+Aaren D'Silva,2021-06-18,FC Goa,Hyderabad FC,50000,0,630382,2021061876364630382,1282047,Transfer,EUR,703579,aaren d'silva_goa_hyderabad_2021_6
+Aaren D'Silva,2020-10-28,Goa II,FC Goa,75000,NA,630382,2020102876364630382,1059236,Transfer,EUR,703579,aaren d'silva_goa ii_goa_2020_10
+Aaron Amadi-Holloway,2016-05-31,Oldham Athletic,Wycombe,NA,NA,186574,2016053146842186574,80641,Back from Loan,,10612,aaron amadi-holloway_oldham athletic_wycombe_2016_5
+Aaron Amadi-Holloway,2022-08-05,Burton Albion,Hereford,2e+05,0,186574,2022080546842186574,1674586,Transfer,EUR,10612,aaron amadi-holloway_burton albion_hereford_2022_8
+Aaron Amadi-Holloway,2020-10-17,Brisbane Roar,SC East Bengal ,2e+05,0,186574,2020101746842186574,1054694,Free Transfer,EUR,10612,aaron amadi-holloway_brisbane roar_sc east bengal_2020_10
+Aaron Amadi-Holloway,2012-01-01,Bath City,Bristol City,50000,NA,186574,2012010146842186574,1572374,Back from Loan,EUR,10612,aaron amadi-holloway_bath city_bristol city_2012_1
+Aaron Amadi-Holloway,2019-07-01,Shrewsbury,Brisbane Roar,1e+05,0,186574,2019070146842186574,768591,Transfer,EUR,10612,aaron amadi-holloway_shrewsbury_brisbane roar_2019_7
+Aaron Amadi-Holloway,2011-07-01,Bristol U18,Bristol City,NA,NA,186574,2011070146842186574,1572374,Back from Loan,EUR,10612,aaron amadi-holloway_bristol u18_bristol city_2011_7
+Aaron Amadi-Holloway,2021-07-23,SC East Bengal ,Burton Albion,2e+05,0,186574,2021072346842186574,1350346,Transfer,EUR,10612,aaron amadi-holloway_sc east bengal_burton albion_2021_7
+Aaron Amadi-Holloway,2016-07-01,Wycombe,Fleetwood,NA,NA,186574,2016070146842186574,253018,Transfer,,10612,aaron amadi-holloway_wycombe_fleetwood_2016_7
+Aaron Amadi-Holloway,2022-05-31,Barrow,Burton Albion,2e+05,NA,186574,2022053146842186574,1674586,Transfer,EUR,10612,aaron amadi-holloway_barrow_burton albion_2022_5
+Aaron Amadi-Holloway,2018-07-13,Oldham Athletic,Shrewsbury,1e+05,NA,186574,2018071346842186574,628871,Transfer,EUR,10612,aaron amadi-holloway_oldham athletic_shrewsbury_2018_7
+Aaron Amadi-Holloway,2017-01-20,Fleetwood,Oldham Athletic,1e+05,NA,186574,2017012046842186574,282871,Transfer,EUR,10612,aaron amadi-holloway_fleetwood_oldham athletic_2017_1
+Aaron Amadi-Holloway,2014-08-09,Newport County,Wycombe,NA,0,186574,2014080946842186574,80643,Transfer,EUR,10612,aaron amadi-holloway_newport county_wycombe_2014_8
+Aaron Amadi-Holloway,2022-01-28,Burton Albion,Barrow,2e+05,NA,186574,2022012846842186574,1674586,Transfer,EUR,10612,aaron amadi-holloway_burton albion_barrow_2022_1
+Aaron Amadi-Holloway,2011-11-24,Bristol City,Bath City,50000,NA,186574,2011112446842186574,1572374,Back from Loan,EUR,10612,aaron amadi-holloway_bristol city_bath city_2011_11
+Aaron Amadi-Holloway,2014-02-12,Bristol City,Newport County,NA,0,186574,2014021246842186574,80644,Loan,,10612,aaron amadi-holloway_bristol city_newport county_2014_2
+Aaron Amadi-Holloway,2016-02-12,Wycombe,Oldham Athletic,NA,NA,186574,2016021246842186574,80642,Loan,,10612,aaron amadi-holloway_wycombe_oldham athletic_2016_2
+Aaron Amadi-Holloway,2023-07-12,Hereford,Chippenham,NA,0,186574,2023071246842186574,2013036,Transfer,EUR,10612,aaron amadi-holloway_hereford_chippenham_2023_7
+Aaron Anderson,2023-12-01,Altona Magic,Preston Lions FC,NA,NA,668844,202312018156668844,2275240,Transfer,EUR,549145,aaron anderson_altona magic_preston lions_2023_12
+Aaron Anderson,2022-12-01,Melbourne,Altona Magic,150000,NA,668844,202212018156668844,1875700,Transfer,EUR,549145,aaron anderson_melbourne_altona magic_2022_12
+Aaron Appiah,2023-07-21,BSC YB U21,FC Wil 1900,1e+05,0,707663,202307215508707663,1987384,Transfer,EUR,733497,aaron appiah_bsc yb u21_wil 1900_2023_7
+Aaron Appindangoyé,2016-07-01,CF Mounana,Stade Lavallois,6e+05,NA,254249,201607012381254249,1241525,Transfer,EUR,243934,aaron appindangoye_cf mounana_stade lavallois_2016_7
+Aaron Appindangoyé,2015-06-30,Boavista,CF Mounana,1e+05,NA,254249,201506302381254249,107432,Back from Loan,,243934,aaron appindangoye_boavista_cf mounana_2015_6
+Aaron Appindangoyé,2015-08-11,CF Mounana,Évian,4e+05,NA,254249,201508112381254249,1356495,Loan,EUR,243934,aaron appindangoye_cf mounana_evian_2015_8
+Aaron Appindangoyé,2015-02-01,CF Mounana,Boavista,NA,NA,254249,201502012381254249,1356495,Loan,EUR,243934,aaron appindangoye_cf mounana_boavista_2015_2
+Aaron Appindangoyé,2016-06-30,Évian,CF Mounana,6e+05,NA,254249,201606302381254249,107432,Back from Loan,,243934,aaron appindangoye_evian_cf mounana_2016_6
+Aaron Appindangoyé,2019-07-01,Ümraniyespor,Sivasspor,4e+05,0,254249,201907012381254249,769266,Transfer,EUR,243934,aaron appindangoye_umraniyespor_sivasspor_2019_7
+Aaron Appindangoyé,2017-08-18,Stade Lavallois,Ümraniyespor,7e+05,NA,254249,201708182381254249,514611,Transfer,,243934,aaron appindangoye_stade lavallois_umraniyespor_2017_8
+Aaron Appindangoyé,2024-07-01,Sivasspor,Kocaelispor,8e+05,0,254249,202407012381254249,2286761,Transfer,EUR,243934,aaron appindangoye_sivasspor_kocaelispor_2024_7
+Aaron Arnott,2024-05-31,East Kilbride,Raith Rovers,NA,NA,822785,202405313194822785,2123255,Back from Loan,EUR,699833,aaron arnott_east kilbride_raith rovers_2024_5
+Aaron Arnott,2024-07-01,Raith Rovers,Bonnyrigg,50000,0,822785,202407013194822785,2296471,Transfer,EUR,699833,aaron arnott_raith rovers_bonnyrigg_2024_7
+Aaron Arnott,2022-09-07,Raith Rovers,Brechin City,125000,NA,822785,202209073194822785,1771043,Transfer,EUR,699833,aaron arnott_raith rovers_brechin city_2022_9
+Aaron Arnott,2023-01-20,Raith Rovers,Bonnyrigg,125000,NA,822785,202301203194822785,2296471,Transfer,EUR,699833,aaron arnott_raith rovers_bonnyrigg_2023_1
+Aaron Arnott,2023-01-13,Brechin City,Raith Rovers,125000,NA,822785,202301133194822785,1771045,Transfer,EUR,699833,aaron arnott_brechin city_raith rovers_2023_1
+Aaron Arnott,2023-05-31,Bonnyrigg,Raith Rovers,125000,NA,822785,202305313194822785,1046394,Free Transfer,EUR,699833,aaron arnott_bonnyrigg_raith rovers_2023_5
+Aaron Arnott,2020-07-01,Fife Elite FA,Raith Rovers,NA,NA,822785,202007013194822785,1046394,Free Transfer,EUR,699833,aaron arnott_fife elite fa_raith rovers_2020_7
+Aaron Arnott,2023-09-19,Raith Rovers,East Kilbride,125000,NA,822785,202309193194822785,2123254,Loan,EUR,699833,aaron arnott_raith rovers_east kilbride_2023_9
+Aaron Bareto,2020-07-01,Salgaocar U18,Salgaocar FC,NA,NA,759101,2020070114084759101,2139742,Transfer,EUR,801198,aaron bareto_salgaocar u18_salgaocar_2020_7
+Aaron Bareto,2021-09-27,Salgaocar FC,Ch. Brothers,NA,0,759101,2021092714084759101,2139741,Transfer,EUR,801198,aaron bareto_salgaocar_ch. brothers_2021_9
+Aaron Barnes,2018-05-31,Torquay,Colchester Utd.,NA,NA,468199,201805317454468199,579127,Back from Loan,EUR,477537,aaron barnes_torquay_colchester utd._2018_5
+Aaron Barnes,2018-01-30,Charlton U21,Colchester Utd.,NA,0,468199,201801307454468199,579125,Transfer,EUR,477537,aaron barnes_charlton u21_colchester utd._2018_1
+Aaron Barnes,2021-07-03,Dulwich Hamlet,Welling Utd.,NA,0,468199,202107037454468199,1438594,Free Transfer,EUR,477537,aaron barnes_dulwich hamlet_welling utd._2021_7
+Aaron Barnes,2023-07-01,Welling Utd.,Hythe Town,NA,0,468199,202307017454468199,2160968,Free Agent,EUR,477537,aaron barnes_welling utd._hythe town_2023_7
+Aaron Barnes,2018-01-31,Colchester Utd.,Torquay,NA,NA,468199,201801317454468199,579126,Loan,EUR,477537,aaron barnes_colchester utd._torquay_2018_1
+Aaron Barnes,2019-07-30,Colchester Utd.,Dulwich Hamlet,NA,0,468199,201907307454468199,789601,Transfer,EUR,477537,aaron barnes_colchester utd._dulwich hamlet_2019_7
+Aaron Basenach,2024-07-25,1.FC K'lautern,FK Pirmasens,1e+05,0,798092,202407252798092,2300475,Transfer,EUR,686995,aaron basenach_1.fc k'lautern_fk pirmasens_2024_7
+Aaron Bastiaans,2021-02-01,VVV-Venlo,Helmond Sport,150000,NA,578459,202102018449578459,1137731,Loan,EUR,578366,aaron bastiaans_vvv-venlo_helmond sport_2021_2
+Aaron Bastiaans,2022-06-30,Helmond Sport,VVV-Venlo,250000,NA,578459,202206308449578459,1137732,Back from Loan,EUR,578366,aaron bastiaans_helmond sport_vvv-venlo_2022_6
+Aaron Bastiaans,2021-06-30,Helmond Sport,VVV-Venlo,125000,NA,578459,202106308449578459,1137732,Back from Loan,EUR,578366,aaron bastiaans_helmond sport_vvv-venlo_2021_6
+Aaron Bastiaans,2017-07-01,VVV-Venlo Youth,VVV-Venlo U17,NA,NA,578459,201707018449578459,1572469,Transfer,EUR,578366,aaron bastiaans_vvv-venlo youth_vvv-venlo u17_2017_7
+Aaron Bastiaans,2019-07-01,VVV U19,VVV-Venlo,NA,NA,578459,201907018449578459,1572476,Transfer,EUR,578366,aaron bastiaans_vvv u19_vvv-venlo_2019_7
+Aaron Bastiaans,2018-07-01,VVV-Venlo U17,VVV U19,NA,NA,578459,201807018449578459,1572471,Transfer,EUR,578366,aaron bastiaans_vvv-venlo u17_vvv u19_2018_7
+Aaron Bastiaans,2022-01-28,VVV-Venlo,Helmond Sport,2e+05,NA,578459,202201288449578459,1137731,Loan,EUR,578366,aaron bastiaans_vvv-venlo_helmond sport_2022_1
+Aaron Bastiaans,2022-08-17,VVV-Venlo,VV UNA,250000,0,578459,202208178449578459,1744182,Transfer,EUR,578366,aaron bastiaans_vvv-venlo_vv una_2022_8
+Aaron Bayakala,2024-07-01,1.FC Köln U19,1.FC Köln II,NA,NA,917931,202407011461917931,2316248,Transfer,EUR,773581,aaron bayakala_1.fc koln u19_1.fc koln ii_2024_7
+Aaron Bayakala,2022-07-01,1.FC Köln U17,1.FC Köln U19,NA,NA,917931,202207011461917931,2316248,Transfer,EUR,773581,aaron bayakala_1.fc koln u17_1.fc koln u19_2022_7
+Aaron Bayliss,2024-02-18,Hamilton W.,Takapuna,1e+05,0,627318,2024021831806627318,2225392,Free Transfer,EUR,1051538,aaron bayliss_hamilton w._takapuna_2024_2
+Aaron Bennett,2022-08-01,Preston U18,Altrincham,NA,NA,667509,202208012962667509,1715406,Loan,EUR,745273,aaron bennett_preston u18_altrincham_2022_8
+Aaron Bennett,2023-05-31,Altrincham,Preston U18,NA,NA,667509,202305312962667509,1920800,Back from Loan,EUR,745273,aaron bennett_altrincham_preston u18_2023_5
+Aaron Bennett,2023-02-16,Preston U18,Altrincham,NA,NA,667509,202302162962667509,1715406,Loan,EUR,745273,aaron bennett_preston u18_altrincham_2023_2
+Aaron Bennett,2022-10-31,Altrincham,Preston U18,NA,NA,667509,202210312962667509,1878630,Back from Loan,EUR,745273,aaron bennett_altrincham_preston u18_2022_10
+Aaron Bennett,2023-08-11,Preston U18,Warrington,NA,0,667509,202308112962667509,2037687,Loan,EUR,745273,aaron bennett_preston u18_warrington_2023_8
+Aaron Berzel,2017-07-01,SV Elversberg,1860 Munich,150000,0,96098,201707015796098,696098,Transfer,EUR,16748,aaron berzel_sv elversberg_1860 munich_2017_7
+Aaron Berzel,2022-01-18,Viktoria Köln,SC Verl,175000,0,96098,202201185796098,1554400,Transfer,EUR,16748,aaron berzel_viktoria koln_sc verl_2022_1
+Aaron Berzel,2015-01-14,Darmstadt 98,Pr. Münster,350000,0,96098,201501145796098,112152,Transfer,,16748,aaron berzel_darmstadt 98_pr. munster_2015_1
+Aaron Berzel,2023-01-31,SC Verl,RW Oberhausen,125000,0,96098,202301315796098,1839412,Transfer,EUR,16748,aaron berzel_sc verl_rw oberhausen_2023_1
+Aaron Berzel,2009-07-01,Hoffenheim U17,Wolfsburg U19,NA,0,96098,200907015796098,1360481,Transfer,EUR,16748,aaron berzel_hoffenheim u17_wolfsburg u19_2009_7
+Aaron Berzel,2021-07-30,Türkgücü Münch.,Viktoria Köln,2e+05,0,96098,202107305796098,1318900,Transfer,EUR,16748,aaron berzel_turkgucu munch._viktoria koln_2021_7
+Aaron Berzel,2013-09-01,Babelsberg 03,Darmstadt 98,2e+05,0,96098,201309015796098,1360491,Transfer,EUR,16748,aaron berzel_babelsberg 03_darmstadt 98_2013_9
+Aaron Berzel,2015-08-31,Pr. Münster,SV Elversberg,250000,0,96098,201508315796098,112151,Transfer,,16748,aaron berzel_pr. munster_sv elversberg_2015_8
+Aaron Berzel,2020-07-15,1860 Munich,Türkgücü Münch.,225000,0,96098,202007155796098,949069,Transfer,EUR,16748,aaron berzel_1860 munich_turkgucu munch._2020_7
+Aaron Bibout,2024-02-23,Ventura County,LA Galaxy,NA,NA,1122196,20240223332851122196,2381558,Transfer,EUR,919473,aaron bibout_ventura county_la galaxy_2024_2
+Aaron Bibout,2024-11-30,Tulsa,LA Galaxy,75000,NA,1122196,20241130332851122196,2381562,Back from Loan,EUR,919473,aaron bibout_tulsa_la galaxy_2024_11
+Aaron Bibout,2024-08-15,LA Galaxy,Tulsa,75000,NA,1122196,20240815332851122196,2381561,Loan,EUR,919473,aaron bibout_la galaxy_tulsa_2024_8
+Aaron Bibout,2023-11-30,Detroit City,Ventura County,NA,NA,1122196,20231130332851122196,2215897,Back from Loan,EUR,919473,aaron bibout_detroit city_ventura county_2023_11
+Aaron Bisle,2019-07-01,Karlsruhe U17,Freib. FC U19,NA,0,527282,2019070156585527282,934611,Transfer,EUR,579198,aaron bisle_karlsruhe u17_freib. u19_2019_7
+Aaron Blair,2022-11-25,Dag & Red FC,Braintree,NA,NA,925797,202211253696925797,1807421,Loan,EUR,767894,aaron blair_dag & red_braintree_2022_11
+Aaron Blair,2023-10-06,Dag & Red FC,Braintree,NA,NA,925797,202310063696925797,2132001,Transfer,EUR,767894,aaron blair_dag & red_braintree_2023_10
+Aaron Blair,2024-07-01,Braintree,Maidstone,NA,NA,925797,202407013696925797,2349605,Transfer,EUR,767894,aaron blair_braintree_maidstone_2024_7
+Aaron Blair,2022-09-23,Braintree,Dag & Red FC,NA,NA,925797,202209233696925797,1715458,Back from Loan,EUR,767894,aaron blair_braintree_dag & red_2022_9
+Aaron Blair,2021-10-16,Dag & Red FC,Barking,NA,NA,925797,202110163696925797,1412879,Free Transfer,EUR,767894,aaron blair_dag & red_barking_2021_10
+Aaron Blair,2023-10-02,Braintree,Dag & Red FC,NA,NA,925797,202310023696925797,2086951,Back from Loan,EUR,767894,aaron blair_braintree_dag & red_2023_10
+Aaron Blair,2022-08-06,Dag & Red FC,Braintree,NA,NA,925797,202208063696925797,1715457,Loan,EUR,767894,aaron blair_dag & red_braintree_2022_8
+Aaron Blair,2023-09-02,Dag & Red FC,Braintree,NA,NA,925797,202309023696925797,2086950,Loan,EUR,767894,aaron blair_dag & red_braintree_2023_9
+Aaron Boupendza,2019-07-06,G. Bordeaux,Feirense,150000,NA,427605,201907069840427605,777104,Loan,EUR,413036,aaron boupendza_g. bordeaux_feirense_2019_7
+Aaron Boupendza,2021-08-26,Hatayspor,Al-Arabi SC,8500000,4250000,427605,202108269840427605,1430262,Transfer,EUR,413036,aaron boupendza_hatayspor_al-arabi sc_2021_8
+Aaron Braithwaite,2024-08-10,Grimsby Town,Gainsborough,50000,0,954241,202408101034954241,2301384,Free Agent,EUR,794090,aaron braithwaite_grimsby town_gainsborough_2024_8
+Aaron Braithwaite,2022-11-25,Grimsby Town,Whitby,NA,NA,954241,202211251034954241,2301384,Free Agent,EUR,794090,aaron braithwaite_grimsby town_whitby_2022_11
+Aaron Braithwaite,2024-01-19,Stafford Rangers,Grimsby Town,NA,NA,954241,202401191034954241,2301380,Back from Loan,EUR,794090,aaron braithwaite_stafford rangers_grimsby town_2024_1
+Aaron Braithwaite,2023-04-24,Whitby,Grimsby Town,NA,NA,954241,202304241034954241,2301384,Free Agent,EUR,794090,aaron braithwaite_whitby_grimsby town_2023_4
+Aaron Braithwaite,2022-07-01,Grimsby U18,Grimsby Town,NA,NA,954241,202207011034954241,2301384,Free Agent,EUR,794090,aaron braithwaite_grimsby u18_grimsby town_2022_7
+Aaron Braithwaite,2023-11-24,Stafford Rangers,Grimsby Town,50000,NA,954241,202311241034954241,2301380,Back from Loan,EUR,794090,aaron braithwaite_stafford rangers_grimsby town_2023_11
+Aaron Braithwaite,2023-08-19,Grimsby Town,Stafford Rangers,50000,NA,954241,202308191034954241,2301379,Loan,EUR,794090,aaron braithwaite_grimsby town_stafford rangers_2023_8
+Aaron Brown,2023-05-10,Stranraer,Kilmarnock U18,NA,NA,967509,202305103034967509,2131476,Back from Loan,EUR,893405,aaron brown_stranraer_kilmarnock u18_2023_5
+Aaron Brown,2023-01-21,Kilmarnock U18,Stranraer,NA,NA,967509,202301213034967509,1848990,Loan,EUR,893405,aaron brown_kilmarnock u18_stranraer_2023_1
+Aaron Brown,2024-03-01,Kilmarnock B,Annan Athletic,NA,NA,967509,202403013034967509,2234121,Transfer,EUR,893405,aaron brown_kilmarnock b_annan athletic_2024_3
+Aaron Brown,2023-07-06,Kilmarnock U18,Kilmarnock B,NA,NA,967509,202307063034967509,2234116,Transfer,EUR,893405,aaron brown_kilmarnock u18_kilmarnock b_2023_7
+Aaron Calver,2014-07-01,Sydney FC II,Sydney FC,75000,NA,255162,2014070130925255162,1011273,Free Transfer,EUR,248761,aaron calver_sydney ii_sydney_2014_7
+Aaron Calver,2019-07-01,Sydney FC,Western United,3e+05,0,255162,2019070130925255162,837361,Transfer,EUR,248761,aaron calver_sydney_western united_2019_7
+Aaron Calver,2022-03-25,Perth Glory,Gwangju FC,450000,NA,255162,2022032530925255162,1619204,Transfer,EUR,248761,aaron calver_perth glory_gwangju_2022_3
+Aaron Calver,2024-01-18,Gwangju FC,Daejeon Hana C.,4e+05,0,255162,2024011830925255162,2196586,Transfer,EUR,248761,aaron calver_gwangju_daejeon hana c._2024_1
+Aaron Calver,2021-07-01,Western United,Perth Glory,4e+05,0,255162,2021070130925255162,1295450,Transfer,EUR,248761,aaron calver_western united_perth glory_2021_7
+Aaron Cervantes,2020-10-07,Orange County,Rangers B,150000,1e+05,574258,2020100733285574258,1026546,Transfer,EUR,533514,aaron cervantes_orange county_rangers b_2020_10
+Aaron Cervantes,2018-03-15,Pateadores,Orange County,NA,0,574258,2018031533285574258,985945,Transfer,EUR,533514,aaron cervantes_pateadores_orange county_2018_3
+Aaron Cervantes,2022-01-29,Partick Thistle,Rangers B,150000,NA,574258,2022012933285574258,1567352,Back from Loan,EUR,533514,aaron cervantes_partick thistle_rangers b_2022_1
+Aaron Cervantes,2022-01-22,Rangers B,Partick Thistle,150000,NA,574258,2022012233285574258,1567351,Loan,EUR,533514,aaron cervantes_rangers b_partick thistle_2022_1
+Aaron Chapman,2014-09-23,Chesterfield FC,Accrington,NA,NA,270571,201409233684270571,86456,Loan,,263450,aaron chapman_chesterfield_accrington_2014_9
+Aaron Chapman,2013-07-01,Belper Town,Chesterfield FC,NA,0,270571,201307013684270571,86459,Transfer,,263450,aaron chapman_belper town_chesterfield_2013_7
+Aaron Chapman,2024-07-01,Worksop,Hereford,NA,0,270571,202407013684270571,2350044,Transfer,EUR,263450,aaron chapman_worksop_hereford_2024_7
+Aaron Chapman,2014-03-07,Chester,Chesterfield FC,NA,NA,270571,201403073684270571,86459,Transfer,,263450,aaron chapman_chester_chesterfield_2014_3
+Aaron Chapman,2024-03-13,Boston Utd,Handsworth,NA,0,270571,202403133684270571,2349950,Transfer,EUR,263450,aaron chapman_boston utd_handsworth_2024_3
+Aaron Chapman,2023-12-21,Retford United,Boston Utd,NA,0,270571,202312213684270571,2167140,Transfer,EUR,263450,aaron chapman_retford united_boston utd_2023_12
+Aaron Chapman,2023-12-01,Scunthorpe Utd.,Retford United,NA,0,270571,202312013684270571,2167139,Transfer,EUR,263450,aaron chapman_scunthorpe utd._retford united_2023_12
+Aaron Chapman,2019-12-14,Peterborough,Tranmere Rovers,25000,NA,270571,201912143684270571,859928,Loan,EUR,263450,aaron chapman_peterborough_tranmere rovers_2019_12
+Aaron Chapman,2023-02-06,Stevenage,Scunthorpe Utd.,2e+05,NA,270571,202302063684270571,1875499,Transfer,EUR,263450,aaron chapman_stevenage_scunthorpe utd._2023_2
+Aaron Chapman,2014-02-07,Chesterfield FC,Chester,NA,NA,270571,201402073684270571,86454,Loan,,263450,aaron chapman_chesterfield_chester_2014_2
+Aaron Chapman,2020-10-07,Peterborough,Motherwell FC,25000,0,270571,202010073684270571,944955,Transfer,EUR,263450,aaron chapman_peterborough_motherwell_2020_10
+Aaron Chapman,2014-10-13,Accrington,Chesterfield FC,NA,NA,270571,201410133684270571,86455,Back from Loan,,263450,aaron chapman_accrington_chesterfield_2014_10
+Aaron Chapman,2021-07-06,Motherwell FC,Gillingham FC,2e+05,0,270571,202107063684270571,1319778,Transfer,EUR,263450,aaron chapman_motherwell_gillingham_2021_7
+Aaron Chapman,2018-07-01,Accrington,Peterborough,25000,0,270571,201807013684270571,622995,Transfer,EUR,263450,aaron chapman_accrington_peterborough_2018_7
+Aaron Chapman,2015-08-14,Chesterfield FC,Bristol Rovers,NA,NA,270571,201508143684270571,86454,Loan,,263450,aaron chapman_chesterfield_bristol rovers_2015_8
+Aaron Chapman,2024-03-31,Handsworth,Worksop,NA,0,270571,202403313684270571,2350042,Transfer,EUR,263450,aaron chapman_handsworth_worksop_2024_3
+Aaron Chapman,2022-07-01,Gillingham FC,Stevenage,2e+05,0,270571,202207013684270571,1657353,Transfer,EUR,263450,aaron chapman_gillingham_stevenage_2022_7
+Aaron Chapman,2015-09-14,Bristol Rovers,Chesterfield FC,NA,NA,270571,201509143684270571,86453,Back from Loan,,263450,aaron chapman_bristol rovers_chesterfield_2015_9
+Aaron Chapman,2020-01-16,Tranmere Rovers,Peterborough,25000,NA,270571,202001163684270571,860382,Back from Loan,EUR,263450,aaron chapman_tranmere rovers_peterborough_2020_1
+Aaron Chapman,2016-07-01,Chesterfield FC,Accrington,NA,0,270571,201607013684270571,86456,Loan,,263450,aaron chapman_chesterfield_accrington_2016_7
+Aaron Ciammaglichella,2021-07-01,Torino U17,Torino U18,NA,NA,724108,2021070112130724108,1727732,Transfer,EUR,626768,aaron ciammaglichella_torino u17_torino u18_2021_7
+Aaron Ciammaglichella,2022-07-01,Torino U18,Torino U19,NA,NA,724108,2022070112130724108,1727732,Transfer,EUR,626768,aaron ciammaglichella_torino u18_torino u19_2022_7
+Aaron Collins,2018-01-03,Wolves,Newport County,75000,NA,341042,201801032455341042,1331305,Free Transfer,EUR,346081,aaron collins_wolves_newport county_2018_1
+Aaron Collins,2014-07-01,Newport U18,Newport County,NA,NA,341042,201407012455341042,1331305,Free Transfer,EUR,346081,aaron collins_newport u18_newport county_2014_7
+Aaron Collins,2019-07-01,Morecambe FC,Forest Green,75000,0,341042,201907012455341042,766579,Transfer,EUR,346081,aaron collins_morecambe_forest green_2019_7
+Aaron Collins,2024-02-01,Bristol Rovers,Bolton,1500000,880000,341042,202402012455341042,2206893,Transfer,EUR,346081,aaron collins_bristol rovers_bolton_2024_2
+Aaron Collins,2019-02-09,Without Club,Morecambe FC,75000,NA,341042,201902092455341042,730105,Free Transfer,EUR,346081,aaron collins_without_morecambe_2019_2
+Aaron Collins,2017-01-03,Notts County,Wolves,NA,NA,341042,201701032455341042,256214,Back from Loan,,346081,aaron collins_notts county_wolves_2017_1
+Aaron Collins,2015-02-07,Merthyr Town,Newport County,NA,NA,341042,201502072455341042,1331309,Back from Loan,EUR,346081,aaron collins_merthyr town_newport county_2015_2
+Aaron Collins,2015-01-07,Newport County,Merthyr Town,NA,NA,341042,201501072455341042,1331308,Loan,EUR,346081,aaron collins_newport county_merthyr town_2015_1
+Aaron Collins,2017-05-31,Tranmere Rovers,Wolves,75000,NA,341042,201705312455341042,502213,Back from Loan,,346081,aaron collins_tranmere rovers_wolves_2017_5
+Aaron Collins,2016-08-31,Wolves,Notts County,NA,NA,341042,201608312455341042,280840,Loan,,346081,aaron collins_wolves_notts county_2016_8
+Aaron Collins,2021-07-01,Forest Green,Bristol Rovers,75000,0,341042,202107012455341042,1301634,Transfer,EUR,346081,aaron collins_forest green_bristol rovers_2021_7
+Aaron Collins,2017-03-23,Wolves,Tranmere Rovers,75000,NA,341042,201703232455341042,280838,Loan,,346081,aaron collins_wolves_tranmere rovers_2017_3
+Aaron Comrie,2015-12-15,St. Johnstone FC U20,Montrose,NA,NA,360102,201512151270360102,199504,Loan,,379241,aaron comrie_st. johnstone u20_montrose_2015_12
+Aaron Comrie,2019-07-01,St. Johnstone,Dunfermline A.,250000,0,360102,201907011270360102,761560,Transfer,EUR,379241,aaron comrie_st. johnstone_dunfermline a._2019_7
+Aaron Comrie,2017-05-21,Peterhead,St. Johnstone FC U20,NA,NA,360102,201705211270360102,259400,Back from Loan,,379241,aaron comrie_peterhead_st. johnstone u20_2017_5
+Aaron Connolly,2022-01-02,Brighton,Middlesbrough,7e+06,NA,434207,202201023008434207,1533223,Loan,EUR,447951,aaron connolly_brighton_middlesbrough_2022_1
+Aaron Connolly,2023-05-31,Hull City,Brighton,5e+06,NA,434207,202305313008434207,1827539,Back from Loan,EUR,447951,aaron connolly_hull city_brighton_2023_5
+Aaron Connolly,2022-05-31,Middlesbrough,Brighton,6e+06,NA,434207,202205313008434207,1533224,Back from Loan,EUR,447951,aaron connolly_middlesbrough_brighton_2022_5
+Aaron Connolly,2023-01-06,Brighton,Hull City,5e+06,NA,434207,202301063008434207,1827538,Loan,EUR,447951,aaron connolly_brighton_hull city_2023_1
+Aaron Connolly,2024-07-01,Hull City,Without Club,2500000,NA,434207,202407013008434207,2297702,Free Agent,EUR,447951,aaron connolly_hull city_without_2024_7
+Aaron Connolly,2023-08-02,Brighton,Hull City,4e+06,1350000,434207,202308023008434207,2016367,Transfer,EUR,447951,aaron connolly_brighton_hull city_2023_8
+Aaron Cosgrave,2021-07-05,Lewes,AFC Wimbledon,NA,0,605921,202107053884605921,1737606,Transfer,EUR,486667,aaron cosgrave_lewes_afc wimbledon_2021_7
+Aaron Cosgrave,2019-07-01,Chelmsford,Welling Utd.,NA,0,605921,201907013884605921,1737601,Transfer,EUR,486667,aaron cosgrave_chelmsford_welling utd._2019_7
+Aaron Cosgrave,2023-01-13,AFC Wimbledon,King's Lynn,NA,NA,605921,202301133884605921,1839888,Loan,EUR,486667,aaron cosgrave_afc wimbledon_king's lynn_2023_1
+Aaron Cosgrave,2021-07-10,AFC Wimbledon,Dover Athletic,NA,NA,605921,202107103884605921,1412232,Loan,EUR,486667,aaron cosgrave_afc wimbledon_dover athletic_2021_7
+Aaron Cosgrave,2020-02-20,Welling Utd.,Lewes,NA,0,605921,202002203884605921,1737605,Transfer,EUR,486667,aaron cosgrave_welling utd._lewes_2020_2
+Aaron Cosgrave,2023-01-06,Southend United,AFC Wimbledon,NA,NA,605921,202301063884605921,1737598,Back from Loan,EUR,486667,aaron cosgrave_southend united_afc wimbledon_2023_1
+Aaron Cosgrave,2022-08-20,AFC Wimbledon,Southend United,NA,NA,605921,202208203884605921,1737597,Loan,EUR,486667,aaron cosgrave_afc wimbledon_southend united_2022_8
+Aaron Cosgrave,2023-05-31,King's Lynn,AFC Wimbledon,NA,NA,605921,202305313884605921,1959564,Back from Loan,EUR,486667,aaron cosgrave_king's lynn_afc wimbledon_2023_5
+Aaron Cosgrave,2018-07-01,Coggeshall,Havant & Water.,NA,0,605921,201807013884605921,664857,Transfer,EUR,486667,aaron cosgrave_coggeshall_havant & water._2018_7
+Aaron Cosgrave,2022-01-01,Dover Athletic,AFC Wimbledon,NA,NA,605921,202201013884605921,1508050,Back from Loan,EUR,486667,aaron cosgrave_dover athletic_afc wimbledon_2022_1
+Aaron Cosgrave,2023-07-01,AFC Wimbledon,Halifax Town,50000,0,605921,202307013884605921,1839888,Loan,EUR,486667,aaron cosgrave_afc wimbledon_halifax town_2023_7
+Aaron Cosgrave,2019-01-04,Havant & Water.,Chelmsford,NA,0,605921,201901043884605921,1051523,Transfer,EUR,486667,aaron cosgrave_havant & water._chelmsford_2019_1
+Aaron Cresswell,2011-07-01,Tranmere Rovers,Ipswich,50000,275000,92571,2011070137992571,95602,Transfer,EUR,8582,aaron cresswell_tranmere rovers_ipswich_2011_7
+Aaron Cresswell,2014-07-03,Ipswich,West Ham,1500000,4750000,92571,2014070337992571,95601,Transfer,EUR,8582,aaron cresswell_ipswich_west ham_2014_7
+Aaron Cruz,2015-07-01,AD San Carlos,Pérez Zeledón,NA,NA,192326,201507014720192326,1984886,Transfer,EUR,125595,aaron cruz_ad san carlos_perez zeledon_2015_7
+Aaron Dhondt,2018-06-30,FC Knokke,Waasland-Beveren,250000,NA,351390,2018063036414351390,266174,Transfer,,360905,aaron dhondt_knokke_waasland-beveren_2018_6
+Aaron Dhondt,2019-01-30,FC Knokke,KFC Mandel Utd.,NA,NA,351390,2019013036414351390,1010136,Transfer,EUR,360905,aaron dhondt_knokke_kfc mandel utd._2019_1
+Aaron Dhondt,2015-07-05,Cercle U21,KFC Izegem,NA,0,351390,2015070536414351390,266175,Free Transfer,,360905,aaron dhondt_cercle u21_kfc izegem_2015_7
+Aaron Dhondt,2016-07-01,KFC Izegem,Waasland-Beveren,NA,0,351390,2016070136414351390,266174,Transfer,,360905,aaron dhondt_kfc izegem_waasland-beveren_2016_7
+Aaron Dhondt,2017-08-30,Waasland-Beveren,FC Knokke,250000,NA,351390,2017083036414351390,615752,Transfer,EUR,360905,aaron dhondt_waasland-beveren_knokke_2017_8
+Aaron Dhondt,2018-07-01,Waasland-Beveren,FC Knokke,250000,0,351390,2018070136414351390,615752,Transfer,EUR,360905,aaron dhondt_waasland-beveren_knokke_2018_7
+Aaron Donnelly,2023-01-23,Nottingham U21,Port Vale,2e+05,NA,624243,202301231211624243,1850391,Loan,EUR,639193,aaron donnelly_nottingham u21_port vale_2023_1
+Aaron Donnelly,2025-05-31,Colchester Utd.,Nottingham U21,5e+05,NA,624243,202505311211624243,2399553,Back from Loan,EUR,639193,aaron donnelly_colchester utd._nottingham u21_2025_5
+Aaron Donnelly,2023-05-31,Port Vale,Nottingham U21,4e+05,NA,624243,202305311211624243,1850392,Back from Loan,EUR,639193,aaron donnelly_port vale_nottingham u21_2023_5
+Aaron Donnelly,2024-05-31,Dundee FC,Nottingham U21,5e+05,NA,624243,202405311211624243,1991250,Back from Loan,EUR,639193,aaron donnelly_dundee_nottingham u21_2024_5
+Aaron Donnelly,2023-07-24,Nottingham U21,Dundee FC,4e+05,NA,624243,202307241211624243,1991249,Loan,EUR,639193,aaron donnelly_nottingham u21_dundee_2023_7
+Aaron Donnelly,2024-08-28,Nottingham U21,Colchester Utd.,5e+05,NA,624243,202408281211624243,2399552,Loan,EUR,639193,aaron donnelly_nottingham u21_colchester utd._2024_8
+Aaron Doran,2010-03-01,Leyton Orient,Blackburn,50000,NA,96148,20100301245196148,103416,Transfer,,62293,aaron doran_leyton orient_blackburn_2010_3
+Aaron Drewe,2021-01-16,Oxford City,QPR U21,NA,NA,683846,202101161039683846,1052481,Free Transfer,EUR,701210,aaron drewe_oxford city_qpr u21_2021_1
+Aaron Drewe,2020-10-02,QPR U21,Oxford City,NA,NA,683846,202010021039683846,1052481,Free Transfer,EUR,701210,aaron drewe_qpr u21_oxford city_2020_10
+Aaron Drinan,2024-02-01,Leyton Orient,Swindon Town,175000,NA,466106,202402011150466106,2207672,Transfer,EUR,475340,aaron drinan_leyton orient_swindon town_2024_2
+Aaron Drinan,2017-07-31,Cork City U19,Waterford FC,NA,0,466106,201707311150466106,499209,Transfer,,475340,aaron drinan_cork city u19_waterford_2017_7
+Aaron Drinan,2019-06-30,Waterford FC,Ipswich,1e+05,NA,466106,201906301150466106,788009,Transfer,EUR,475340,aaron drinan_waterford_ipswich_2019_6
+Aaron Drinan,2018-08-01,Ipswich,Sutton Utd,1e+05,NA,466106,201808011150466106,656009,Loan,EUR,475340,aaron drinan_ipswich_sutton utd_2018_8
+Aaron Drinan,2021-07-01,Ipswich,Leyton Orient,1e+05,NA,466106,202107011150466106,1311998,Transfer,EUR,475340,aaron drinan_ipswich_leyton orient_2021_7
+Aaron Drinan,2019-11-30,GAIS,Ipswich,1e+05,NA,466106,201911301150466106,816226,Back from Loan,EUR,475340,aaron drinan_gais_ipswich_2019_11
+Aaron Drinan,2020-01-17,Ipswich,Ayr United,1e+05,NA,466106,202001171150466106,875684,Loan,EUR,475340,aaron drinan_ipswich_ayr united_2020_1
+Aaron Drinan,2020-05-31,Ayr United,Ipswich,1e+05,NA,466106,202005311150466106,875685,Back from Loan,EUR,475340,aaron drinan_ayr united_ipswich_2020_5
+Aaron Drinan,2019-08-08,Ipswich,GAIS,1e+05,NA,466106,201908081150466106,816225,Loan,EUR,475340,aaron drinan_ipswich_gais_2019_8
+Aaron Drinan,2018-01-04,Waterford FC,Ipswich,NA,1e+05,466106,201801041150466106,788009,Transfer,EUR,475340,aaron drinan_waterford_ipswich_2018_1
+Aaron Drinan,2018-11-26,Sutton Utd,Ipswich,1e+05,NA,466106,201811261150466106,711218,Back from Loan,EUR,475340,aaron drinan_sutton utd_ipswich_2018_11
+Aaron Drinan,2019-02-13,Ipswich,Waterford FC,1e+05,NA,466106,201902131150466106,734291,Transfer,EUR,475340,aaron drinan_ipswich_waterford_2019_2
+Aaron Dunsmore,2022-07-01,East Fife,Stirling Albion,NA,0,209584,202207013033209584,1688952,Transfer,EUR,345759,aaron dunsmore_east fife_stirling albion_2022_7
+Aaron Dunsmore,2017-07-11,Hibernian FC,East Fife,NA,0,209584,201707113033209584,1341132,Transfer,EUR,345759,aaron dunsmore_hibernian_east fife_2017_7
+Aaron Dunsmore,2016-08-08,Hibernian FC,Edinburgh City,NA,NA,209584,201608083033209584,1341126,Loan,EUR,345759,aaron dunsmore_hibernian_edinburgh city_2016_8
+Aaron Dunsmore,2022-05-02,Stirling Albion,East Fife,NA,NA,209584,202205023033209584,1604917,Back from Loan,EUR,345759,aaron dunsmore_stirling albion_east fife_2022_5
+Aaron Dunsmore,2017-05-07,Edinburgh City,Hibernian FC,NA,NA,209584,201705073033209584,1341127,Back from Loan,EUR,345759,aaron dunsmore_edinburgh city_hibernian_2017_5
+Aaron Dunsmore,2024-07-01,Stirling Albion,Cowdenbeath,NA,0,209584,202407013033209584,1604917,Back from Loan,EUR,345759,aaron dunsmore_stirling albion_cowdenbeath_2024_7
+Aaron Dunsmore,2016-02-01,Hibernian FC U20,Edinburgh City,NA,NA,209584,201602013033209584,1341126,Loan,EUR,345759,aaron dunsmore_hibernian u20_edinburgh city_2016_2
+Aaron Dunsmore,2024-02-28,Stirling Albion,Bonnyrigg,NA,NA,209584,202402283033209584,2234252,Loan,EUR,345759,aaron dunsmore_stirling albion_bonnyrigg_2024_2
+Aaron Dunsmore,2016-05-15,Edinburgh City,Hibernian FC U20,NA,NA,209584,201605153033209584,1341127,Back from Loan,EUR,345759,aaron dunsmore_edinburgh city_hibernian u20_2016_5
+Aaron Dunsmore,2022-02-28,East Fife,Stirling Albion,NA,NA,209584,202202283033209584,1688952,Transfer,EUR,345759,aaron dunsmore_east fife_stirling albion_2022_2
+Aaron Essel,2024-07-08,Bechem United,St. Johnstone,1e+05,NA,883168,2024070825065883168,2306913,Transfer,EUR,831057,aaron essel_bechem united_st. johnstone_2024_7
+Aaron Evans,2022-09-25,PERSIS,NorthEast Utd.,250000,0,501141,2022092531450501141,1720045,Transfer,EUR,342847,aaron evans_persis_northeast utd._2022_9
+Aaron Evans,2024-03-18,Dand. Thunder,Abahani Ltd.,250000,0,501141,2024031831450501141,2258210,Free Transfer,EUR,342847,aaron evans_dand. thunder_abahani ltd._2024_3
+Aaron Evans,2015-01-05,Tai Po,Kamphaengphet,NA,0,501141,2015010531450501141,123393,Transfer,,342847,aaron evans_tai po_kamphaengphet_2015_1
+Aaron Evans,2023-06-01,NorthEast Utd.,Without Club,275000,NA,501141,2023060131450501141,2006405,Free Agent,EUR,342847,aaron evans_northeast utd._without_2023_6
+Aaron Eyoma,2017-01-31,Arsenal U23,FC Volendam,NA,NA,340318,2017013129842340318,284229,Loan,,353942,aaron eyoma_arsenal u23_volendam_2017_1
+Aaron Eyoma,2019-03-08,Derby U23,Braintree,NA,NA,340318,2019030829842340318,739342,Loan,EUR,353942,aaron eyoma_derby u23_braintree_2019_3
+Aaron Eyoma,2019-01-11,Woking,Derby U23,NA,NA,340318,2019011129842340318,697275,Back from Loan,EUR,353942,aaron eyoma_woking_derby u23_2019_1
+Aaron Eyoma,2018-07-05,Arsenal U23,Derby U23,NA,0,340318,2018070529842340318,595988,Loan,EUR,353942,aaron eyoma_arsenal u23_derby u23_2018_7
+Aaron Eyoma,2022-02-12,Braintree,Potters Bar,NA,0,340318,2022021229842340318,1704927,Transfer,EUR,353942,aaron eyoma_braintree_potters bar_2022_2
+Aaron Eyoma,2018-12-14,Derby U23,Woking,NA,NA,340318,2018121429842340318,697274,Loan,EUR,353942,aaron eyoma_derby u23_woking_2018_12
+Aaron Eyoma,2022-08-27,Potters Bar,Concord Rangers,NA,0,340318,2022082729842340318,1749742,Free Transfer,EUR,353942,aaron eyoma_potters bar_concord rangers_2022_8
+Aaron Eyoma,2019-07-13,Derby U23,Aldershot,NA,0,340318,2019071329842340318,761312,Transfer,EUR,353942,aaron eyoma_derby u23_aldershot_2019_7
+Aaron Eyoma,2019-04-07,Braintree,Derby U23,NA,NA,340318,2019040729842340318,747020,Back from Loan,EUR,353942,aaron eyoma_braintree_derby u23_2019_4
+Aaron Eyoma,2017-06-30,FC Volendam,Arsenal U23,50000,NA,340318,2017063029842340318,500096,Back from Loan,,353942,aaron eyoma_volendam_arsenal u23_2017_6
+Aaron Fontain,2023-01-07,FC Dornbirn,Röthis,NA,NA,1020457,2023010774481020457,1830876,Loan,EUR,837646,aaron fontain_dornbirn_rothis_2023_1
+Aaron Fontain,2024-06-30,Röthis,FC Dornbirn,NA,NA,1020457,2024063074481020457,2317498,Unknown,EUR,837646,aaron fontain_rothis_dornbirn_2024_6
+Aaron Goldmann,2019-07-01,TuS Bersenbrück,Blau-Weiß Lohne,NA,0,142429,201907014883142429,1646878,Transfer,EUR,223580,aaron goldmann_tus bersenbruck_blau-wei lohne_2019_7
+Aaron Gurd,2022-05-12,Sydney FC II,Sydney FC,NA,NA,867764,2022051219820867764,1998542,Free Transfer,EUR,673420,aaron gurd_sydney ii_sydney_2022_5
+Aaron Gut,2023-07-01,Bahlinger SC,FC Teningen,25000,0,504854,2023070120382504854,1958784,Transfer,EUR,617660,aaron gut_bahlinger sc_teningen_2023_7
+Aaron Hauser,2023-01-01,Winterthur U18,Winterthur U21,NA,NA,810850,2023010114156810850,1872864,Transfer,EUR,900750,aaron hauser_winterthur u18_winterthur u21_2023_1
+Aaron Hayden,2024-07-01,Wrexham,Carlisle United,150000,0,357297,202407011112357297,2290458,Transfer,EUR,385953,aaron hayden_wrexham_carlisle united_2024_7
+Aaron Hayden,2019-07-29,Wolves U21,Carlisle United,NA,0,357297,201907291112357297,2290458,Transfer,EUR,385953,aaron hayden_wolves u21_carlisle united_2019_7
+Aaron Hayden,2021-08-08,Carlisle United,Wrexham,NA,NA,357297,202108081112357297,1411336,Transfer,EUR,385953,aaron hayden_carlisle united_wrexham_2021_8
+Aaron Healy,2023-01-02,Arthurlie,Queen's Park,NA,NA,1079297,2023010230311079297,1820546,Free Transfer,EUR,889100,aaron healy_arthurlie_queen's park_2023_1
+Aaron Healy,2024-05-31,Dumbarton,Queen's Park,1e+05,NA,1079297,2024053130311079297,2205338,Back from Loan,EUR,889100,aaron healy_dumbarton_queen's park_2024_5
+Aaron Healy,2024-01-30,Queen's Park,Dumbarton,1e+05,NA,1079297,2024013030311079297,1820546,Free Transfer,EUR,889100,aaron healy_queen's park_dumbarton_2024_1
+Aaron Henkel,2023-07-01,Erzgeb. Aue U17,Erzgeb. Aue U19,NA,NA,915427,2023070128443915427,2340902,Transfer,EUR,847766,aaron henkel_erzgeb. aue u17_erzgeb. aue u19_2023_7
+Aaron Henry,2025-05-31,Rochdale,Charlton,125000,NA,655988,20250531358655988,2306675,Back from Loan,EUR,650139,aaron henry_rochdale_charlton_2025_5
+Aaron Henry,2023-08-04,Charlton,Crawley Town,150000,NA,655988,20230804358655988,2016887,Loan,EUR,650139,aaron henry_charlton_crawley town_2023_8
+Aaron Henry,2022-02-04,Charlton U21,Wealdstone,NA,NA,655988,20220204358655988,1583563,Loan,EUR,650139,aaron henry_charlton u21_wealdstone_2022_2
+Aaron Henry,2024-01-04,Crawley Town,Charlton,175000,NA,655988,20240104358655988,2180612,Back from Loan,EUR,650139,aaron henry_crawley town_charlton_2024_1
+Aaron Henry,2024-05-31,Wealdstone,Charlton,175000,NA,655988,20240531358655988,2180616,Back from Loan,EUR,650139,aaron henry_wealdstone_charlton_2024_5
+Aaron Henry,2022-05-31,Wealdstone,Charlton U21,NA,NA,655988,20220531358655988,2180616,Back from Loan,EUR,650139,aaron henry_wealdstone_charlton u21_2022_5
+Aaron Henry,2024-01-05,Charlton,Wealdstone,175000,NA,655988,20240105358655988,2180615,Loan,EUR,650139,aaron henry_charlton_wealdstone_2024_1
+Aaron Henry,2019-07-01,Charlton Athleti,Charlton U18,NA,NA,655988,20190701358655988,865219,Free Transfer,EUR,650139,aaron henry_charlton athleti_charlton u18_2019_7
+Aaron Henry,2024-07-09,Charlton,Rochdale,125000,NA,655988,20240709358655988,2306674,Loan,EUR,650139,aaron henry_charlton_rochdale_2024_7
+Aaron Herzog,2020-07-27,M'gladbach II,Hansa Rostock,125000,0,276566,20200727440276566,1047934,Transfer,EUR,391515,aaron herzog_m'gladbach ii_hansa rostock_2020_7
+Aaron Herzog,2021-07-14,Hansa Rostock,Hallescher FC,150000,0,276566,20210714440276566,1322629,Free Transfer,EUR,391515,aaron herzog_hansa rostock_hallescher_2021_7
+Aaron Herzog,2023-07-01,Hallescher FC,Alem. Aachen,175000,0,276566,20230701440276566,1956708,Transfer,EUR,391515,aaron herzog_hallescher_alem. aachen_2023_7
+Aaron Herzog,2024-07-01,VfB Lübeck,SC Fliesteden,125000,0,276566,20240701440276566,2289998,Unknown,EUR,391515,aaron herzog_vfb lubeck_sc fliesteden_2024_7
+Aaron Herzog,2024-01-26,Alem. Aachen,VfB Lübeck,125000,0,276566,20240126440276566,2202780,Transfer,EUR,391515,aaron herzog_alem. aachen_vfb lubeck_2024_1
+Aaron Hickey,2022-07-09,Bologna,Brentford,1.8e+07,14250000,591949,202207091148591949,1662975,Transfer,EUR,596046,aaron hickey_bologna_brentford_2022_7
+Aaron Hickey,2017-07-01,Hearts Youth,Celtic U17,NA,0,591949,201707011148591949,1678209,Transfer,EUR,596046,aaron hickey_hearts youth_celtic u17_2017_7
+Aaron Hickey,2020-09-24,Heart of Midl.,Bologna,6e+05,1700000,591949,202009241148591949,1010719,Transfer,EUR,596046,aaron hickey_heart of midl._bologna_2020_9
+Aaron Hönger,2022-08-27,Without Club,Kickers Luzern,NA,NA,284806,202208272051284806,1880861,Free Transfer,EUR,533365,aaron honger_without_kickers luzern_2022_8
+Aaron Hönger,2016-07-01,SC Kriens,FC Schötz,25000,0,284806,201607012051284806,1130301,Transfer,EUR,533365,aaron honger_sc kriens_schotz_2016_7
+Aaron Hönger,2021-08-01,FC Rotkreuz,FC Emmenbrücke,NA,0,284806,202108012051284806,1880850,Transfer,EUR,533365,aaron honger_rotkreuz_emmenbrucke_2021_8
+Aaron Hönger,2019-07-01,SC Buochs,FC Rotkreuz,NA,0,284806,201907012051284806,995414,Transfer,EUR,533365,aaron honger_sc buochs_rotkreuz_2019_7
+Aaron Hönger,2018-01-01,FC Schötz,SC Buochs,NA,0,284806,201801012051284806,1130302,Transfer,EUR,533365,aaron honger_schotz_sc buochs_2018_1
+Aaron Hönger,2015-01-16,Luzern U21,SC Kriens,NA,NA,284806,201501162051284806,1130299,Transfer,EUR,533365,aaron honger_luzern u21_sc kriens_2015_1
+Aaron Hönger,2022-01-01,FC Emmenbrücke,Without Club,NA,NA,284806,202201012051284806,1880855,Free Agent,EUR,533365,aaron honger_emmenbrucke_without_2022_1
+Aaron James,2024-07-01,Wrexham FC Res,Wrexham,NA,NA,895724,202407011112895724,1769607,Free Transfer,EUR,863397,aaron james_wrexham res_wrexham_2024_7
+Aaron Jarvis,2017-08-31,Basingstoke,Luton,NA,NA,534559,201708311218534559,512621,Transfer,,433091,aaron jarvis_basingstoke_luton_2017_8
+Aaron Jarvis,2019-07-12,Luton,Sutton Utd,NA,0,534559,201907121218534559,787395,Transfer,EUR,433091,aaron jarvis_luton_sutton utd_2019_7
+Aaron Jarvis,2017-12-22,Luton,Boreham Wood,NA,NA,534559,201712221218534559,544722,Loan,EUR,433091,aaron jarvis_luton_boreham wood_2017_12
+Aaron Jarvis,2024-07-01,Torquay,Yeovil Town,NA,0,534559,202407011218534559,2349275,Transfer,EUR,433091,aaron jarvis_torquay_yeovil town_2024_7
+Aaron Jarvis,2019-05-06,Falkirk,Luton,NA,NA,534559,201905061218534559,732689,Back from Loan,EUR,433091,aaron jarvis_falkirk_luton_2019_5
+Aaron Jarvis,2019-01-31,Luton,Falkirk,NA,NA,534559,201901311218534559,732688,Loan,EUR,433091,aaron jarvis_luton_falkirk_2019_1
+Aaron Jarvis,2018-01-22,Boreham Wood,Luton,NA,NA,534559,201801221218534559,544723,Back from Loan,EUR,433091,aaron jarvis_boreham wood_luton_2018_1
+Aaron Jarvis,2020-08-03,Sutton Utd,Scunthorpe Utd.,NA,NA,534559,202008031218534559,983308,Transfer,EUR,433091,aaron jarvis_sutton utd_scunthorpe utd._2020_8
+Aaron Jarvis,2022-07-01,Scunthorpe Utd.,Torquay,NA,0,534559,202207011218534559,1705022,Transfer,EUR,433091,aaron jarvis_scunthorpe utd._torquay_2022_7
+Aaron Jones,2018-08-24,Without Club,King's Lynn,NA,NA,874432,201808246169874432,1016973,Free Transfer,EUR,495302,aaron jones_without_king's lynn_2018_8
+Aaron Jones,2018-01-01,Philadelphia,Without Club,250000,NA,482653,2018010138899482653,547582,Free Agent,EUR,495302,aaron jones_philadelphia_without_2018_1
+Aaron Jones,2023-07-01,Dulwich Hamlet,Without Club,NA,NA,874432,202307016169874432,1809867,Free Transfer,EUR,789057,aaron jones_dulwich hamlet_without_2023_7
+Aaron Jones,2017-01-13,Clemson Tigers,Philadelphia,NA,NA,874432,201701136169874432,547580,Transfer,EUR,495302,aaron jones_clemson tigers_philadelphia_2017_1
+Aaron Jones,2018-08-24,Without Club,King's Lynn,250000,NA,482653,2018082438899482653,1016973,Free Transfer,EUR,495302,aaron jones_without_king's lynn_2018_8
+Aaron Jones,2022-11-18,Without Club,Dulwich Hamlet,NA,NA,874432,202211186169874432,1809867,Free Transfer,EUR,789057,aaron jones_without_dulwich hamlet_2022_11
+Aaron Jones,2018-01-01,Philadelphia,Without Club,NA,NA,874432,201801016169874432,547582,Free Agent,EUR,495302,aaron jones_philadelphia_without_2018_1
+Aaron Jones,2017-01-13,Clemson Tigers,Philadelphia,NA,NA,482653,2017011338899482653,547580,Transfer,EUR,495302,aaron jones_clemson tigers_philadelphia_2017_1
+Aaron Jones,2022-11-18,Without Club,Dulwich Hamlet,NA,NA,482653,2022111838899482653,1809867,Free Transfer,EUR,789057,aaron jones_without_dulwich hamlet_2022_11
+Aaron Kacinari,2024-12-31,Tulsa,Triestina,1e+05,NA,657338,2024123112462657338,2240919,Back from Loan,EUR,617000,aaron kacinari_tulsa_triestina_2024_12
+Aaron Kacinari,2024-03-14,Triestina,Tulsa,1e+05,NA,657338,2024031412462657338,2240918,Loan,EUR,617000,aaron kacinari_triestina_tulsa_2024_3
+Aaron Kacinari,2022-07-18,Tabor Sezana,Venezia,50000,0,657338,2022071812462657338,1661100,Transfer,EUR,617000,aaron kacinari_tabor sezana_venezia_2022_7
+Aaron Kacinari,2021-07-15,ND Gorica,Tabor Sezana,50000,0,657338,2021071512462657338,1337669,Transfer,EUR,617000,aaron kacinari_nd gorica_tabor sezana_2021_7
+Aaron Kacinari,2023-06-30,KS Kastrioti,Venezia,50000,NA,657338,2023063012462657338,1759549,Back from Loan,EUR,617000,aaron kacinari_ks kastrioti_venezia_2023_6
+Aaron Kacinari,2022-08-30,Venezia,KS Kastrioti,50000,NA,657338,2022083012462657338,1759548,Loan,EUR,617000,aaron kacinari_venezia_ks kastrioti_2022_8
+Aaron Kacinari,2020-08-10,Drava Ptuj,ND Gorica,50000,0,657338,2020081012462657338,970056,Transfer,EUR,617000,aaron kacinari_drava ptuj_nd gorica_2020_8
+Aaron Keller,2024-07-01,Unterhaching,SSV Ulm 1846,8e+05,NA,727538,202407018207727538,2285316,Loan,EUR,646130,aaron keller_unterhaching_ssv ulm 1846_2024_7
+Aaron Keller,2025-06-30,SSV Ulm 1846,Unterhaching,8e+05,NA,727538,202506308207727538,2285317,Back from Loan,EUR,646130,aaron keller_ssv ulm 1846_unterhaching_2025_6
+Aaron Kiil Olsen,2021-01-15,Bærum,KFUM,NA,0,633546,2021011576633546,763314,Free Transfer,EUR,613730,aaron olsen_brum_kfum_2021_1
+Aaron Kiil Olsen,2019-04-15,Bærum SK II,Bærum,NA,NA,633546,2019041576633546,763314,Free Transfer,EUR,613730,aaron olsen_brum sk ii_brum_2019_4
+Aaron Kircher,2014-01-23,SCR Altach,First Vienna FC,50000,0,83613,20140123447883613,1654311,Transfer,EUR,65131,aaron kircher_scr altach_first vienna_2014_1
+Aaron Kircher,2014-07-01,First Vienna FC,FC Dornbirn,1e+05,0,83613,20140701447883613,20999,Transfer,,65131,aaron kircher_first vienna_dornbirn_2014_7
+Aaron Kircher,2012-07-01,A. Lustenau,SCR Altach,50000,0,83613,20120701447883613,1654317,Transfer,EUR,65131,aaron kircher_a. lustenau_scr altach_2012_7
+Aaron Kircher,2023-07-01,Hohenems,Retired,NA,NA,83613,20230701447883613,1978368,Retired,EUR,65131,aaron kircher_hohenems_retired_2023_7
+Aaron Kircher,2022-07-01,FC Dornbirn,Hohenems,NA,0,83613,20220701447883613,1654306,Transfer,EUR,65131,aaron kircher_dornbirn_hohenems_2022_7
+Aaron Kuhl,2023-01-30,Slough,Dorking,NA,0,249884,2023013052299249884,1911596,Transfer,EUR,336757,aaron kuhl_slough_dorking_2023_1
+Aaron Kuhl,2019-12-07,Slough,Basingstoke,NA,NA,249884,2019120752299249884,1361061,Transfer,EUR,336757,aaron kuhl_slough_basingstoke_2019_12
+Aaron Kuhl,2024-03-24,Farnborough,Dorking,NA,NA,249884,2024032452299249884,2250724,Back from Loan,EUR,336757,aaron kuhl_farnborough_dorking_2024_3
+Aaron Kuhl,2017-07-01,Reading,Without Club,1e+05,NA,249884,2017070152299249884,1361048,Free Transfer,EUR,336757,aaron kuhl_reading_without_2017_7
+Aaron Kuhl,2020-08-07,Basingstoke,Slough,NA,0,249884,2020080752299249884,1361064,Transfer,EUR,336757,aaron kuhl_basingstoke_slough_2020_8
+Aaron Kuhl,2016-08-19,Reading,Boreham Wood,150000,NA,249884,2016081952299249884,284080,Loan,,336757,aaron kuhl_reading_boreham wood_2016_8
+Aaron Kuhl,2015-09-01,Reading,Dundee United,150000,NA,249884,2015090152299249884,85385,Loan,,336757,aaron kuhl_reading_dundee united_2015_9
+Aaron Kuhl,2023-10-20,Dorking,Farnborough,NA,NA,249884,2023102052299249884,2137953,Loan,EUR,336757,aaron kuhl_dorking_farnborough_2023_10
+Aaron Kuhl,2019-10-10,Without Club,Basingstoke,NA,NA,249884,2019101052299249884,1361058,Free Transfer,EUR,336757,aaron kuhl_without_basingstoke_2019_10
+Aaron Kuhl,2017-01-28,Boreham Wood,Reading,150000,NA,249884,2017012852299249884,1361052,Back from Loan,EUR,336757,aaron kuhl_boreham wood_reading_2017_1
+Aaron Kuhl,2015-12-14,Dundee United,Reading,150000,NA,249884,2015121452299249884,1310877,Back from Loan,EUR,336757,aaron kuhl_dundee united_reading_2015_12
+Aaron Kuhl,2019-11-15,Basingstoke,Slough,NA,0,249884,2019111552299249884,1361060,Transfer,EUR,336757,aaron kuhl_basingstoke_slough_2019_11
+Aaron Kuhl,2024-01-01,Farnborough,Dorking,NA,NA,249884,2024010152299249884,2250724,Back from Loan,EUR,336757,aaron kuhl_farnborough_dorking_2024_1
+Aaron Leganase,2017-07-01,Arras B,Arras FA,NA,NA,896899,2017070151445896899,1091238,Free Transfer,EUR,432118,aaron leganase_arras b_arras fa_2017_7
+Aaron Lennox,2023-07-01,Montrose,Retired,NA,NA,216896,202307013030216896,2011054,Free Agent,EUR,144792,aaron lennox_montrose_retired_2023_7
+Aaron Lennox,2017-07-01,Aberdeen FC,Raith Rovers,50000,0,216896,201707013030216896,302871,Loan,,144792,aaron lennox_aberdeen_raith rovers_2017_7
+Aaron Lennox,2014-10-03,QPR,Concord Rangers,NA,NA,216896,201410033030216896,80928,Loan,,144792,aaron lennox_qpr_concord rangers_2014_10
+Aaron Lennox,2018-07-01,Raith Rovers,Partick Thistle,NA,0,216896,201807013030216896,639700,Transfer,EUR,144792,aaron lennox_raith rovers_partick thistle_2018_7
+Aaron Lennox,2019-07-05,Partick Thistle,Montrose,75000,0,216896,201907053030216896,724314,Loan,EUR,144792,aaron lennox_partick thistle_montrose_2019_7
+Aaron Lennox,2019-01-31,Partick Thistle,Cowdenbeath,75000,NA,216896,201901313030216896,724314,Loan,EUR,144792,aaron lennox_partick thistle_cowdenbeath_2019_1
+Aaron Lennox,2019-05-05,Cowdenbeath,Partick Thistle,75000,NA,216896,201905053030216896,747507,Back from Loan,EUR,144792,aaron lennox_cowdenbeath_partick thistle_2019_5
+Aaron Lennox,2016-07-01,Aberdeen FC,Raith Rovers,NA,NA,216896,201607013030216896,302871,Loan,,144792,aaron lennox_aberdeen_raith rovers_2016_7
+Aaron Lewis,2019-08-10,Swansea U21,Lincoln City,NA,0,344014,201908103716344014,829050,Transfer,EUR,351797,aaron lewis_swansea u21_lincoln city_2019_8
+Aaron Lewis,2021-02-02,Lincoln City,Newport County,NA,0,344014,202102023716344014,1141798,Transfer,EUR,351797,aaron lewis_lincoln city_newport county_2021_2
+Aaron Lewis,2023-07-11,Newport County,Mansfield Town,175000,0,344014,202307113716344014,1973163,Transfer,EUR,351797,aaron lewis_newport county_mansfield town_2023_7
+Aaron Lewis,2021-01-02,Newport County,Lincoln City,NA,NA,344014,202101023716344014,1050378,Back from Loan,EUR,351797,aaron lewis_newport county_lincoln city_2021_1
+Aaron Lewis,2020-10-16,Lincoln City,Newport County,NA,NA,344014,202010163716344014,1141798,Transfer,EUR,351797,aaron lewis_lincoln city_newport county_2020_10
+Aaron Leya Iseka,2022-09-08,Barnsley FC,Adanaspor,1800000,NA,289587,20220908349289587,1771427,Loan,EUR,278814,aaron iseka_barnsley_adanaspor_2022_9
+Aaron Leya Iseka,2021-08-02,Toulouse,Barnsley FC,2500000,NA,289587,20210802349289587,1381737,Transfer,EUR,278814,aaron iseka_toulouse_barnsley_2021_8
+Aaron Leya Iseka,2017-06-30,Marseille,RSC Anderlecht,1250000,NA,289587,20170630349289587,1335903,Free Transfer,EUR,278814,aaron iseka_marseille_rsc anderlecht_2017_6
+Aaron Leya Iseka,2023-06-30,Tuzlaspor,Barnsley FC,6e+05,NA,289587,20230630349289587,1771429,Back from Loan,EUR,278814,aaron iseka_tuzlaspor_barnsley_2023_6
+Aaron Leya Iseka,2018-07-01,RSC Anderlecht,Toulouse,2200000,1250000,289587,20180701349289587,1335903,Free Transfer,EUR,278814,aaron iseka_rsc anderlecht_toulouse_2018_7
+Aaron Leya Iseka,2017-07-01,RSC Anderlecht,Zulte Waregem,1250000,NA,289587,20170701349289587,482203,Loan,,278814,aaron iseka_rsc anderlecht_zulte waregem_2017_7
+Aaron Leya Iseka,2024-01-29,Barnsley FC,OFI Crete FC,6e+05,NA,289587,20240129349289587,2204974,Free Transfer,EUR,278814,aaron iseka_barnsley_ofi crete_2024_1
+Aaron Leya Iseka,2021-06-30,FC Metz,Toulouse,2500000,NA,289587,20210630349289587,1045939,Back from Loan,EUR,278814,aaron iseka_metz_toulouse_2021_6
+Aaron Leya Iseka,2018-06-30,Zulte Waregem,RSC Anderlecht,2200000,NA,289587,20180630349289587,482202,Back from Loan,,278814,aaron iseka_zulte waregem_rsc anderlecht_2018_6
+Aaron Leya Iseka,2024-06-30,Hapoel Hadera,Barnsley FC,NA,NA,289587,20240630349289587,2122496,Back from Loan,EUR,278814,aaron iseka_hapoel hadera_barnsley_2024_6
+Aaron Leya Iseka,2023-09-20,Barnsley FC,Hapoel Hadera,6e+05,NA,289587,20230920349289587,2122495,Loan,EUR,278814,aaron iseka_barnsley_hapoel hadera_2023_9
+Aaron Leya Iseka,2020-10-30,Toulouse,FC Metz,2e+06,NA,289587,20201030349289587,1045938,Loan,EUR,278814,aaron iseka_toulouse_metz_2020_10
+Aaron Leya Iseka,2024-09-02,OFI Crete FC,CSKA-Sofia,5e+05,1200000,289587,20240902349289587,2435162,Transfer,EUR,278814,aaron iseka_ofi crete_cska-sofia_2024_9
+Aaron Leya Iseka,2023-03-01,Barnsley FC,Tuzlaspor,1e+06,NA,289587,20230301349289587,1771427,Loan,EUR,278814,aaron iseka_barnsley_tuzlaspor_2023_3
+Aaron Leya Iseka,2016-07-23,RSC Anderlecht,Marseille,9e+05,NA,289587,20160723349289587,1335903,Free Transfer,EUR,278814,aaron iseka_rsc anderlecht_marseille_2016_7
+Aaron Leya Iseka,2023-12-31,Hapoel Hadera,Barnsley FC,6e+05,NA,289587,20231231349289587,2122496,Back from Loan,EUR,278814,aaron iseka_hapoel hadera_barnsley_2023_12
+Aaron Leya Iseka,2023-02-28,Adanaspor,Barnsley FC,1e+06,NA,289587,20230228349289587,1771429,Back from Loan,EUR,278814,aaron iseka_adanaspor_barnsley_2023_2
+Aaron Leyhr,2022-07-01,Reutlingen U19,SSV Reutlingen,NA,NA,654805,2022070168654805,1726544,Transfer,EUR,602711,aaron leyhr_reutlingen u19_ssv reutlingen_2022_7
+Aaron Lombardi,2019-09-01,Orange County,Fossacesia,NA,0,611025,2019090169398611025,1210762,Transfer,EUR,251977,aaron lombardi_orange county_fossacesia_2019_9
+Aaron Lombardi,2022-01-27,Fossacesia,Red Wolves,NA,NA,611025,2022012769398611025,1618705,Transfer,EUR,251977,aaron lombardi_fossacesia_red wolves_2022_1
+Aaron Lombardi,2021-08-12,Lanciano,Fossacesia,NA,0,611025,2021081269398611025,1498504,Transfer,EUR,251977,aaron lombardi_lanciano_fossacesia_2021_8
+Aaron Long,2014-03-05,Portland,Sacramento FC,NA,NA,271072,2014030551828271072,237943,Loan,,328968,aaron long_portland_sacramento_2014_3
+Aaron Long,2016-03-10,Sounders FC 2,NY Red Bulls II,NA,NA,271072,2016031051828271072,237939,Transfer,,328968,aaron long_sounders 2_ny red bulls ii_2016_3
+Aaron Long,2016-12-31,New York,NY Red Bulls II,1e+05,NA,271072,2016123151828271072,1826695,Back from Loan,EUR,328968,aaron long_new york_ny red bulls ii_2016_12
+Aaron Long,2017-02-22,NY Red Bulls II,New York,1e+05,NA,271072,2017022251828271072,1826693,Transfer,EUR,328968,aaron long_ny red bulls ii_new york_2017_2
+Aaron Long,2014-04-22,Sacramento FC,Portland,NA,NA,271072,2014042251828271072,1347632,Back from Loan,EUR,328968,aaron long_sacramento_portland_2014_4
+Aaron Loupalo-Bi,2023-07-04,Fulham U18,Fulham U21,NA,NA,926131,202307046942926131,2016289,Transfer,EUR,769878,aaron loupalo-bi_fulham u18_fulham u21_2023_7
+Aaron Loupalo-Bi,2024-07-01,Fulham U18,Fulham U21,NA,NA,926131,202407016942926131,2016289,Transfer,EUR,769878,aaron loupalo-bi_fulham u18_fulham u21_2024_7
+Aaron Manu,2017-07-01,Saarbrücken U19,Nürnberg U19,NA,0,452027,20170701111452027,1094540,Transfer,EUR,520919,aaron manu_saarbrucken u19_nurnberg u19_2017_7
+Aaron Manu,2021-07-15,Schweinfurt 05,Rot-Weiß Erfurt,NA,0,452027,20210715111452027,1314200,Transfer,EUR,520919,aaron manu_schweinfurt 05_rot-wei erfurt_2021_7
+Aaron Manu,2019-07-01,Nuremberg II,Schweinfurt 05,25000,0,452027,20190701111452027,772133,Transfer,EUR,520919,aaron manu_nuremberg ii_schweinfurt 05_2019_7
+Aaron Manu,2024-09-02,RW Essen,TSV Steinbach,1e+05,0,452027,20240902111452027,2424518,Free Transfer,EUR,520919,aaron manu_rw essen_tsv steinbach_2024_9
+Aaron Manu,2023-07-01,Rot-Weiß Erfurt,RW Essen,150000,0,452027,20230701111452027,1958370,Transfer,EUR,520919,aaron manu_rot-wei erfurt_rw essen_2023_7
+Aaron Martin,2023-08-02,Gateshead,South Shields,NA,NA,136581,2023080210391136581,2019286,Free Transfer,EUR,678715,aaron martin_gateshead_south shields_2023_8
+Aaron Martin,2015-01-09,Yeovil Town,Coventry,3e+05,0,136581,2015010910391136581,93398,Loan,,8131,aaron martin_yeovil town_coventry_2015_1
+Aaron Martin,2016-07-01,Coventry,Oxford United,250000,0,136581,2016070110391136581,254150,Free Transfer,EUR,8131,aaron martin_coventry_oxford united_2016_7
+Aaron Martin,2014-10-29,Yeovil Town,Coventry,3e+05,NA,136581,2014102910391136581,93398,Loan,,8131,aaron martin_yeovil town_coventry_2014_10
+Aaron Martin,2010-03-01,Southampton,Salisbury,NA,NA,796677,201003013456796677,93403,Loan,,8131,aaron martin_southampton_salisbury_2010_3
+Aaron Martin,2023-08-02,Gateshead,South Shields,NA,NA,796677,202308023456796677,2019286,Free Transfer,EUR,678715,aaron martin_gateshead_south shields_2023_8
+Aaron Martin,2013-02-25,Southampton,Coventry,NA,NA,136581,2013022510391136581,93401,Loan,,8131,aaron martin_southampton_coventry_2013_2
+Aaron Martin,2014-01-30,Southampton,Birmingham,NA,0,136581,2014013010391136581,93400,Free Transfer,,8131,aaron martin_southampton_birmingham_2014_1
+Aaron Martin,2022-07-09,Harrogate Town,Gateshead,NA,0,136581,2022070910391136581,951049,Free Transfer,EUR,678715,aaron martin_harrogate town_gateshead_2022_7
+Aaron Martin,2015-01-09,Yeovil Town,Coventry,NA,0,796677,201501093456796677,93398,Loan,,8131,aaron martin_yeovil town_coventry_2015_1
+Aaron Martin,2014-07-01,Birmingham,Yeovil Town,NA,0,796677,201407013456796677,93399,Free Transfer,,8131,aaron martin_birmingham_yeovil town_2014_7
+Aaron Martin,2022-07-09,Harrogate Town,Gateshead,NA,0,796677,202207093456796677,951049,Free Transfer,EUR,678715,aaron martin_harrogate town_gateshead_2022_7
+Aaron Martin,2021-07-01,Hamilton Acad.,Port Vale,NA,0,796677,202107013456796677,1287829,Transfer,EUR,8131,aaron martin_hamilton acad._port vale_2021_7
+Aaron Martin,2014-07-01,Birmingham,Yeovil Town,3e+05,0,136581,2014070110391136581,93399,Free Transfer,,8131,aaron martin_birmingham_yeovil town_2014_7
+Aaron Martin,2024-07-01,South Shields,Worksop,NA,0,796677,202407013456796677,2442726,Transfer,EUR,678715,aaron martin_south shields_worksop_2024_7
+Aaron Martin,2020-07-02,Exeter City,Without Club,2e+05,NA,136581,2020070210391136581,945605,Free Agent,EUR,8131,aaron martin_exeter city_without_2020_7
+Aaron Martin,2022-07-08,Port Vale,Eastleigh,NA,NA,796677,202207083456796677,2350389,Retired,EUR,8131,aaron martin_port vale_eastleigh_2022_7
+Aaron Martin,2020-11-07,Without Club,Hamilton Acad.,NA,NA,796677,202011073456796677,1054613,Free Transfer,EUR,8131,aaron martin_without_hamilton acad._2020_11
+Aaron Martin,2013-02-25,Southampton,Coventry,NA,NA,796677,201302253456796677,93401,Loan,,8131,aaron martin_southampton_coventry_2013_2
+Aaron Martin,2024-07-01,Eastleigh,Retired,NA,NA,136581,2024070110391136581,2350389,Retired,EUR,8131,aaron martin_eastleigh_retired_2024_7
+Aaron Martin,2021-07-01,Hamilton Acad.,Port Vale,3e+05,0,136581,2021070110391136581,1287829,Transfer,EUR,8131,aaron martin_hamilton acad._port vale_2021_7
+Aaron Martin,2022-07-08,Port Vale,Eastleigh,3e+05,NA,136581,2022070810391136581,2350389,Retired,EUR,8131,aaron martin_port vale_eastleigh_2022_7
+Aaron Martin,2022-05-31,Halifax Town,Harrogate Town,NA,NA,796677,202205313456796677,1567420,Back from Loan,EUR,678715,aaron martin_halifax town_harrogate town_2022_5
+Aaron Martin,2014-01-30,Southampton,Birmingham,NA,0,796677,201401303456796677,93400,Free Transfer,,8131,aaron martin_southampton_birmingham_2014_1
+Aaron Martin,2022-01-24,Harrogate Town,Halifax Town,NA,NA,796677,202201243456796677,1567419,Loan,EUR,678715,aaron martin_harrogate town_halifax town_2022_1
+Aaron Martin,2020-03-16,Guiseley,Harrogate Town,NA,0,136581,2020031610391136581,951049,Free Transfer,EUR,678715,aaron martin_guiseley_harrogate town_2020_3
+Aaron Martin,2010-03-01,Southampton,Salisbury,25000,NA,136581,2010030110391136581,93403,Loan,,8131,aaron martin_southampton_salisbury_2010_3
+Aaron Martin,2022-01-24,Harrogate Town,Halifax Town,NA,NA,136581,2022012410391136581,1567419,Loan,EUR,678715,aaron martin_harrogate town_halifax town_2022_1
+Aaron Martin,2014-10-29,Yeovil Town,Coventry,NA,NA,796677,201410293456796677,93398,Loan,,8131,aaron martin_yeovil town_coventry_2014_10
+Aaron Martin,2020-11-07,Without Club,Hamilton Acad.,2e+05,NA,136581,2020110710391136581,1054613,Free Transfer,EUR,8131,aaron martin_without_hamilton acad._2020_11
+Aaron Martin,2012-07-01,Southampton,Crystal Palace,150000,NA,136581,2012070110391136581,93402,Loan,,8131,aaron martin_southampton_crystal palace_2012_7
+Aaron Martin,2020-07-02,Exeter City,Without Club,NA,NA,796677,202007023456796677,945605,Free Agent,EUR,8131,aaron martin_exeter city_without_2020_7
+Aaron Martin,2020-03-16,Guiseley,Harrogate Town,NA,0,796677,202003163456796677,951049,Free Transfer,EUR,678715,aaron martin_guiseley_harrogate town_2020_3
+Aaron Martin,2016-07-01,Coventry,Oxford United,NA,0,796677,201607013456796677,254150,Free Transfer,EUR,8131,aaron martin_coventry_oxford united_2016_7
+Aaron Martin,2012-07-01,Southampton,Crystal Palace,NA,NA,796677,201207013456796677,93402,Loan,,8131,aaron martin_southampton_crystal palace_2012_7
+Aaron Martin,2022-05-31,Halifax Town,Harrogate Town,NA,NA,136581,2022053110391136581,1567420,Back from Loan,EUR,678715,aaron martin_halifax town_harrogate town_2022_5
+Aaron Martin,2018-07-01,Oxford United,Exeter City,2e+05,0,136581,2018070110391136581,613450,Free Transfer,EUR,8131,aaron martin_oxford united_exeter city_2018_7
+Aaron Martinez,2023-02-17,Without Club,Sav. Clovers,NA,NA,1109944,20230217960631109944,1914896,Free Transfer,EUR,921501,aaron martinez_without_sav. clovers_2023_2
+Aaron McEneff,2021-02-01,Shamrock Rovers,Heart of Midl.,2e+05,2e+05,167264,20210201970167264,1140598,Transfer,EUR,136699,aaron mceneff_shamrock rovers_heart of midl._2021_2
+Aaron McEneff,2024-01-19,Perth Glory,Shamrock Rovers,350000,NA,167264,20240119970167264,2197350,Transfer,EUR,136699,aaron mceneff_perth glory_shamrock rovers_2024_1
+Aaron McEneff,2019-01-01,Derry City,Shamrock Rovers,NA,0,167264,20190101970167264,2197350,Transfer,EUR,136699,aaron mceneff_derry city_shamrock rovers_2019_1
+Aaron McEneff,2025-01-01,Perth Glory,Shamrock Rovers,325000,NA,167264,20250101970167264,2197350,Transfer,EUR,136699,aaron mceneff_perth glory_shamrock rovers_2025_1
+Aaron McEneff,2015-07-30,Tottenham U21,Derry City,NA,0,167264,20150730970167264,1018770,Transfer,EUR,136699,aaron mceneff_tottenham u21_derry city_2015_7
+Aaron McEneff,2024-11-30,Shamrock Rovers,Perth Glory,325000,NA,167264,20241130970167264,2197348,Back from Loan,EUR,136699,aaron mceneff_shamrock rovers_perth glory_2024_11
+Aaron McEneff,2022-07-18,Heart of Midl.,Perth Glory,4e+05,NA,167264,20220718970167264,1683380,Transfer,EUR,136699,aaron mceneff_heart of midl._perth glory_2022_7
+Aaron McGowan,2021-07-12,Kilmarnock FC,Northampton,325000,NA,257729,202107121302257729,1325239,Transfer,EUR,252829,aaron mcgowan_kilmarnock_northampton_2021_7
+Aaron McGowan,2020-07-01,Hamilton Acad.,Kilmarnock FC,3e+05,0,257729,202007011302257729,941761,Transfer,EUR,252829,aaron mcgowan_hamilton acad._kilmarnock_2020_7
+Aaron McGowan,2018-07-01,Morecambe FC,Hamilton Acad.,1e+05,0,257729,201807011302257729,617274,Transfer,EUR,252829,aaron mcgowan_morecambe_hamilton acad._2018_7
+Aaron McGowan,2013-07-01,Morecambe U18,Morecambe FC,NA,NA,257729,201307011302257729,1151697,Free Transfer,EUR,252829,aaron mcgowan_morecambe u18_morecambe_2013_7
+Aaron Meijers,2021-06-30,Sparta R.,ADO Den Haag,325000,NA,56836,2021063046856836,1002906,Back from Loan,EUR,341,aaron meijers_sparta r._ado den haag_2021_6
+Aaron Meijers,2021-08-30,ADO Den Haag,Sparta R.,325000,0,56836,2021083046856836,1002905,Loan,EUR,341,aaron meijers_ado den haag_sparta r._2021_8
+Aaron Meijers,2010-07-01,FC Volendam,RKC Waalwijk,325000,0,56836,2010070146856836,163473,Transfer,,341,aaron meijers_volendam_rkc waalwijk_2010_7
+Aaron Meijers,2023-07-01,Sparta R.,RKC Waalwijk,2e+05,0,56836,2023070146856836,1956145,Transfer,EUR,341,aaron meijers_sparta r._rkc waalwijk_2023_7
+Aaron Meijers,2012-07-01,RKC Waalwijk,ADO Den Haag,6e+05,0,56836,2012070146856836,163472,Transfer,,341,aaron meijers_rkc waalwijk_ado den haag_2012_7
+Aaron Meijers,2020-09-16,ADO Den Haag,Sparta R.,550000,NA,56836,2020091646856836,1002905,Loan,EUR,341,aaron meijers_ado den haag_sparta r._2020_9
+Aaron Menelik,2022-07-01,Willem II U21,Almere City U21,NA,0,595942,2022070120298595942,2037215,Transfer,EUR,710978,aaron menelik_willem ii u21_almere city u21_2022_7
+Aaron Menelik,2020-07-01,AZ U19,Willem II U21,NA,0,595942,2020070120298595942,1089066,Free Transfer,EUR,710978,aaron menelik_az u19_willem ii u21_2020_7
+Aaron Molloy,2023-12-04,Memphis 901,Charleston,350000,0,428901,2023120469166428901,2161734,Transfer,EUR,393664,aaron molloy_memphis 901_charleston_2023_12
+Aaron Molloy,2022-01-11,Forward Madison,Memphis 901,2e+05,NA,428901,2022011169166428901,1552944,Transfer,EUR,393664,aaron molloy_forward madison_memphis 901_2022_1
+Aaron Molloy,2016-01-01,Drogheda U19,Drogheda United,NA,NA,428901,2016010169166428901,130268,Transfer,,393664,aaron molloy_drogheda u19_drogheda united_2016_1
+Aaron Molloy,2017-05-01,Keiser Uni,Reading United,NA,NA,428901,2017050169166428901,603473,Transfer,EUR,393664,aaron molloy_keiser uni_reading united_2017_5
+Aaron Molloy,2021-02-17,Portland 2,Forward Madison,NA,0,428901,2021021769166428901,1197420,Transfer,EUR,393664,aaron molloy_portland 2_forward madison_2021_2
+Aaron Molloy,2018-05-01,Penn State,Reading United,NA,NA,428901,2018050169166428901,603473,Transfer,EUR,393664,aaron molloy_penn state_reading united_2018_5
+Aaron Mooy,2016-07-05,Man City,Huddersfield,750000,NA,123951,20160705371123951,340966,Transfer,EUR,62389,aaron mooy_man city_huddersfield_2016_7
+Aaron Mooy,2017-07-01,Man City,Huddersfield,5e+06,9100000,123951,20170701371123951,340966,Transfer,EUR,62389,aaron mooy_man city_huddersfield_2017_7
+Aaron Mooy,2016-07-01,Melbourne City,Man City,750000,0,123951,20160701371123951,263223,Transfer,,62389,aaron mooy_melbourne city_man city_2016_7
+Aaron Mooy,2017-05-31,Huddersfield,Man City,1e+06,NA,123951,20170531371123951,1685009,Back from Loan,EUR,62389,aaron mooy_huddersfield_man city_2017_5
+Aaron Mooy,2023-07-01,Celtic,Retired,3500000,NA,123951,20230701371123951,1962996,Retired,EUR,62389,aaron mooy_celtic_retired_2023_7
+Aaron Mooy,2014-07-01,Western Sydney,Melbourne City,750000,0,123951,20140701371123951,263224,Transfer,,62389,aaron mooy_western sydney_melbourne city_2014_7
+Aaron Mooy,2022-07-19,SH Port,Celtic,5e+06,0,123951,20220719371123951,1683010,Transfer,EUR,62389,aaron mooy_sh port_celtic_2022_7
+Aaron Mooy,2012-07-01,St. Mirren,Western Sydney,150000,NA,123951,20120701371123951,19436,Transfer,,62389,aaron mooy_st. mirren_western sydney_2012_7
+Aaron Morley,2022-01-11,Rochdale,Bolton,NA,NA,451749,20220111355451749,1555332,Transfer,EUR,446429,aaron morley_rochdale_bolton_2022_1
+Aaron Muirhead,2022-07-01,Ayr United,Partick Thistle,225000,0,120980,202207012760120980,201508,Free Transfer,,63390,aaron muirhead_ayr united_partick thistle_2022_7
+Aaron Muirhead,2012-07-01,Annan Athletic,Partick Thistle,NA,0,120980,201207012760120980,201508,Free Transfer,,63390,aaron muirhead_annan athletic_partick thistle_2012_7
+Aaron Muirhead,2019-01-24,Falkirk,Ayr United,250000,0,120980,201901242760120980,717053,Transfer,EUR,63390,aaron muirhead_falkirk_ayr united_2019_1
+Aaron Muirhead,2015-01-03,Partick Thistle,Falkirk,250000,0,120980,201501032760120980,201507,Transfer,,63390,aaron muirhead_partick thistle_falkirk_2015_1
+Aaron Murillo,2020-06-30,Guadalupe FC,Alajuelense U20,125000,NA,401440,2020063018574401440,781086,Back from Loan,EUR,404142,aaron murillo_guadalupe_alajuelense u20_2020_6
+Aaron Murillo,2017-07-01,Alajuelense U20,Guadalupe FC,NA,NA,401440,2017070118574401440,781515,Loan,EUR,404142,aaron murillo_alajuelense u20_guadalupe_2017_7
+Aaron Murillo,2023-07-01,Guadalupe FC,Herediano,175000,0,401440,2023070118574401440,1958131,Transfer,EUR,404142,aaron murillo_guadalupe_herediano_2023_7
+Aaron Nemane,2019-07-01,Man City U23,Without Club,3e+05,NA,248325,201907011045248325,766184,Free Agent,EUR,343947,aaron nemane_man city u23_without_2019_7
+Aaron Nemane,2018-01-07,Man City U23,Go Ahead Eagles,NA,NA,248325,201801071045248325,555968,Loan,EUR,343947,aaron nemane_man city u23_go ahead eagles_2018_1
+Aaron Nemane,2019-06-30,AFC Tubize,Man City U23,3e+05,NA,248325,201906301045248325,663554,Back from Loan,EUR,343947,aaron nemane_afc tubize_man city u23_2019_6
+Aaron Nemane,2018-06-30,Go Ahead Eagles,Man City U23,125000,NA,248325,201806301045248325,555969,Back from Loan,EUR,343947,aaron nemane_go ahead eagles_man city u23_2018_6
+Aaron Nemane,2021-07-20,Torquay,Notts County,NA,0,248325,202107201045248325,1388139,Transfer,EUR,343947,aaron nemane_torquay_notts county_2021_7
+Aaron Nemane,2018-01-01,Rangers,Man City U23,NA,NA,248325,201801011045248325,514928,Back from Loan,,343947,aaron nemane_rangers_man city u23_2018_1
+Aaron Nemane,2019-12-14,Without Club,Torquay,3e+05,NA,248325,201912141045248325,861144,Free Transfer,EUR,343947,aaron nemane_without_torquay_2019_12
+Aaron Nemane,2024-08-09,Notts County,MK Dons,250000,NA,248325,202408091045248325,2365493,Transfer,EUR,343947,aaron nemane_notts county_mk dons_2024_8
+Aaron Nemane,2018-08-31,Man City U23,AFC Tubize,125000,NA,248325,201808311045248325,663553,Loan,EUR,343947,aaron nemane_man city u23_afc tubize_2018_8
+Aaron Norris,2018-09-28,Peterhead,Formartine,NA,NA,296060,2018092823613296060,1065754,Loan,EUR,345787,aaron norris_peterhead_formartine_2018_9
+Aaron Norris,2017-11-15,Without Club,Peterhead,NA,NA,296060,2017111523613296060,1065753,Free Transfer,EUR,345787,aaron norris_without_peterhead_2017_11
+Aaron Norris,2019-05-01,Formartine,Peterhead,NA,NA,296060,2019050123613296060,1065755,Back from Loan,EUR,345787,aaron norris_formartine_peterhead_2019_5
+Aaron Norris,2015-07-01,Aberdeen FC U17,Aberdeen FC U20 ,NA,NA,296060,2015070123613296060,1065752,Free Agent,EUR,345787,aaron norris_aberdeen u17_aberdeen u20_2015_7
+Aaron Norris,2019-09-12,Peterhead,Formartine,NA,0,296060,2019091223613296060,1065754,Loan,EUR,345787,aaron norris_peterhead_formartine_2019_9
+Aaron Norris,2017-07-01,Aberdeen FC U20 ,Without Club,NA,NA,296060,2017070123613296060,1065752,Free Agent,EUR,345787,aaron norris_aberdeen u20_without_2017_7
+Aaron O'Driscoll,2016-07-08,Man City U18,Southampton U18,NA,NA,325213,2016070828545325213,977081,Transfer,EUR,425939,aaron o'driscoll_man city u18_southampton u18_2016_7
+Aaron O'Driscoll,2020-08-19,Southampton B,Mansfield Town,NA,0,325213,2020081928545325213,977082,Transfer,EUR,425939,aaron o'driscoll_southampton b_mansfield town_2020_8
+Aaron O'Driscoll,2021-11-30,Longford Town,Mansfield Town,10000,NA,325213,2021113028545325213,1182357,Back from Loan,EUR,425939,aaron o'driscoll_longford town_mansfield town_2021_11
+Aaron O'Driscoll,2021-02-26,Mansfield Town,Longford Town,NA,NA,325213,2021022628545325213,1182356,Loan,EUR,425939,aaron o'driscoll_mansfield town_longford town_2021_2
+Aaron O'Driscoll,2022-01-12,Mansfield Town,Shelbourne,50000,NA,325213,2022011228545325213,1182356,Loan,EUR,425939,aaron o'driscoll_mansfield town_shelbourne_2022_1
+Aaron O'Driscoll,2023-01-01,Shelbourne,Christchurch,75000,0,325213,2023010128545325213,1827101,Free Transfer,EUR,425939,aaron o'driscoll_shelbourne_christchurch_2023_1
+Aaron O'Driscoll,2023-07-01,Christchurch,Altona Magic,150000,NA,325213,2023070128545325213,2209598,Transfer,EUR,425939,aaron o'driscoll_christchurch_altona magic_2023_7
+Aaron Olanare,2020-02-19,SC Longfor,CC Yatai,6e+05,0,240551,2020021939722240551,897860,Transfer,EUR,227553,aaron olanare_sc longfor_cc yatai_2020_2
+Aaron Olanare,2016-06-30,CSKA Moscow,GZ R&F,2e+06,NA,240551,2016063039722240551,64564,Back from Loan,,227553,aaron olanare_cska moscow_gz r&f_2016_6
+Aaron Olanare,2018-10-12,Without Club,B. Jerusalem,1e+06,NA,240551,2018101239722240551,682787,Transfer,EUR,227553,aaron olanare_without_b. jerusalem_2018_10
+Aaron Olanare,2018-02-22,CSKA Moscow,Amkar Perm,8e+05,NA,240551,2018022239722240551,579354,Loan,EUR,227553,aaron olanare_cska moscow_amkar perm_2018_2
+Aaron Olanare,2024-03-27,Neftchi Baku,Molde FK,2e+05,0,240551,2024032739722240551,2180471,Transfer,EUR,227553,aaron olanare_neftchi baku_molde fk_2024_3
+Aaron Olanare,2016-02-17,GZ R&F,CSKA Moscow,1500000,NA,240551,2016021739722240551,64565,Loan,,227553,aaron olanare_gz r&f_cska moscow_2016_2
+Aaron Olanare,2014-07-09,Sarpsborg 08,GZ R&F,2e+05,1400000,240551,2014070939722240551,64566,Transfer,EUR,227553,aaron olanare_sarpsborg 08_gz r&f_2014_7
+Aaron Olanare,2012-08-30,Dolphin FC,Vålerenga,NA,NA,240551,2012083039722240551,1485630,Transfer,EUR,227553,aaron olanare_dolphin_valerenga_2012_8
+Aaron Olanare,2018-06-30,Amkar Perm,CSKA Moscow,1e+06,NA,240551,2018063039722240551,579355,Back from Loan,EUR,227553,aaron olanare_amkar perm_cska moscow_2018_6
+Aaron Olanare,2013-07-15,Vålerenga,Sarpsborg 08,1e+05,NA,240551,2013071539722240551,167084,Transfer,,227553,aaron olanare_valerenga_sarpsborg 08_2013_7
+Aaron Olanare,2021-01-01,CC Yatai,Without Club,450000,NA,240551,2021010139722240551,1326472,Free Agent,EUR,227553,aaron olanare_cc yatai_without_2021_1
+Aaron Opoku,2020-07-05,Hansa Rostock,Hamburger SV,6e+05,NA,344063,202007052344063,1424374,Back from Loan,EUR,447658,aaron opoku_hansa rostock_hamburger sv_2020_7
+Aaron Opoku,2021-06-30,J. Regensburg,Hamburger SV,5e+05,NA,344063,202106302344063,1322674,Back from Loan,EUR,447658,aaron opoku_j. regensburg_hamburger sv_2021_6
+Aaron Opoku,2021-08-24,Hamburger SV,VfL Osnabrück,5e+05,NA,344063,202108242344063,1421129,Loan,EUR,447658,aaron opoku_hamburger sv_vfl osnabruck_2021_8
+Aaron Opoku,2018-07-01,Hamburg U19,Hamburger SV,NA,NA,344063,201807012344063,769349,Free Transfer,EUR,447658,aaron opoku_hamburg u19_hamburger sv_2018_7
+Aaron Opoku,2022-06-30,VfL Osnabrück,Hamburger SV,6e+05,NA,344063,202206302344063,1421130,Back from Loan,EUR,447658,aaron opoku_vfl osnabruck_hamburger sv_2022_6
+Aaron Opoku,2016-07-01,Hamburg U17,Hamburg U19,NA,NA,344063,201607012344063,1424371,Transfer,EUR,447658,aaron opoku_hamburg u17_hamburg u19_2016_7
+Aaron Opoku,2022-08-31,Hamburger SV,1.FC K'lautern,6e+05,2e+05,344063,202208312344063,1759935,Transfer,EUR,447658,aaron opoku_hamburger sv_1.fc k'lautern_2022_8
+Aaron Opoku,2019-07-01,Hamburger SV,Hansa Rostock,1e+05,NA,344063,201907012344063,1084705,Loan,EUR,447658,aaron opoku_hamburger sv_hansa rostock_2019_7
+Aaron Opoku,2020-10-02,Hamburger SV,J. Regensburg,6e+05,NA,344063,202010022344063,1084707,Loan,EUR,447658,aaron opoku_hamburger sv_j. regensburg_2020_10
+Aaron Oppedisano,2024-01-22,Peninsula Power,Edgeworth E.,NA,NA,1111552,20240122313461111552,2229928,Free Agent,EUR,514031,aaron oppedisano_peninsula power_edgeworth e._2024_1
+Aaron Oppedisano,2022-01-01,Broadmeadow,St Albans,NA,NA,1111552,20220101313461111552,1876479,Transfer,EUR,514031,aaron oppedisano_broadmeadow_st albans_2022_1
+Aaron Oppedisano,2023-01-01,St Albans,Peninsula Power,NA,NA,1111552,20230101313461111552,2229928,Free Agent,EUR,514031,aaron oppedisano_st albans_peninsula power_2023_1
+Aaron Osei Bonsu,2023-07-01,Beerschot U23,Beerschot VA,NA,NA,1090331,20230701412741090331,2437950,Transfer,EUR,908530,aaron bonsu_beerschot u23_beerschot va_2023_7
+Aaron Pierre,2023-01-31,Sutton Utd,AFC Wimbledon,3e+05,0,128292,202301313884128292,1963124,Free Agent,EUR,243622,aaron pierre_sutton utd_afc wimbledon_2023_1
+Aaron Pierre,2023-07-01,AFC Wimbledon,Without Club,1e+05,NA,128292,202307013884128292,1963124,Free Agent,EUR,243622,aaron pierre_afc wimbledon_without_2023_7
+Aaron Pierre,2022-08-29,Shrewsbury,Sutton Utd,3e+05,0,128292,202208293884128292,1671697,Transfer,EUR,243622,aaron pierre_shrewsbury_sutton utd_2022_8
+Aaron Pierre,2019-07-01,Northampton,Shrewsbury,3e+05,NA,128292,201907013884128292,768163,Transfer,EUR,243622,aaron pierre_northampton_shrewsbury_2019_7
+Aaron Pierre,2014-02-28,Brentford,Wycombe,NA,NA,128292,201402283884128292,2135960,Free Transfer,EUR,243622,aaron pierre_brentford_wycombe_2014_2
+Aaron Pierre,2017-07-21,Wycombe,Northampton,3e+05,0,128292,201707213884128292,492871,Transfer,EUR,243622,aaron pierre_wycombe_northampton_2017_7
+Aaron Pierre,2023-10-14,Without Club,Shrewsbury,1e+05,NA,128292,202310143884128292,2135962,Free Transfer,EUR,243622,aaron pierre_without_shrewsbury_2023_10
+Aaron Pierre,2014-07-01,Brentford,Wycombe,NA,0,128292,201407013884128292,2135960,Free Transfer,EUR,243622,aaron pierre_brentford_wycombe_2014_7
+Aaron Pierre,2013-11-28,Brentford,Cambridge Utd.,NA,NA,128292,201311283884128292,96694,Loan,,243622,aaron pierre_brentford_cambridge utd._2013_11
+Aaron Pierre,2014-05-31,Wycombe,Brentford,NA,NA,128292,201405313884128292,2135960,Free Transfer,EUR,243622,aaron pierre_wycombe_brentford_2014_5
+Aaron Pierre,2012-07-01,Brentford U18,Brentford,NA,NA,128292,201207013884128292,2135960,Free Transfer,EUR,243622,aaron pierre_brentford u18_brentford_2012_7
+Aaron Pierre,2014-01-04,Cambridge Utd.,Brentford,NA,NA,128292,201401043884128292,96693,Back from Loan,,243622,aaron pierre_cambridge utd._brentford_2014_1
+Aaron Powell,2022-07-22,Peterboro U21,Dereham Town,NA,NA,678130,202207227454678130,2157217,Loan,EUR,702425,aaron powell_peterboro u21_dereham town_2022_7
+Aaron Powell,2023-02-20,Welling Utd.,Peterboro U21,NA,NA,678130,202302207454678130,1884549,Back from Loan,EUR,702425,aaron powell_welling utd._peterboro u21_2023_2
+Aaron Powell,2022-12-26,Peterboro U21,Welling Utd.,NA,NA,678130,202212267454678130,1819001,Loan,EUR,702425,aaron powell_peterboro u21_welling utd._2022_12
+Aaron Powell,2022-11-01,Dereham Town,Peterboro U21,NA,NA,678130,202211017454678130,2157218,Back from Loan,EUR,702425,aaron powell_dereham town_peterboro u21_2022_11
+Aaron Powell,2024-01-20,King's Lynn,Peterboro U21,NA,NA,678130,202401207454678130,2167149,Back from Loan,EUR,702425,aaron powell_king's lynn_peterboro u21_2024_1
+Aaron Powell,2023-12-22,Peterboro U21,King's Lynn,NA,NA,678130,202312227454678130,2167148,Loan,EUR,702425,aaron powell_peterboro u21_king's lynn_2023_12
+Aaron Pressley,2020-01-29,Aston Villa U18,Brentford B,NA,NA,471003,202001293688471003,893909,Transfer,EUR,489436,aaron pressley_aston villa u18_brentford b_2020_1
+Aaron Pressley,2022-03-18,AFC Wimbledon,Brentford B,1e+05,NA,471003,202203183688471003,1350317,Back from Loan,EUR,489436,aaron pressley_afc wimbledon_brentford b_2022_3
+Aaron Pressley,2023-08-02,Brentford B,Stevenage,2e+05,0,471003,202308023688471003,2008553,Transfer,EUR,489436,aaron pressley_brentford b_stevenage_2023_8
+Aaron Pressley,2023-05-31,Accrington,Brentford B,2e+05,NA,471003,202305313688471003,1350317,Back from Loan,EUR,489436,aaron pressley_accrington_brentford b_2023_5
+Aaron Pressley,2023-01-04,Brentford B,Accrington,1e+05,NA,471003,202301043688471003,1601748,Loan,EUR,489436,aaron pressley_brentford b_accrington_2023_1
+Aaron Pressley,2021-07-16,Brentford B,AFC Wimbledon,1e+05,NA,471003,202107163688471003,1601748,Loan,EUR,489436,aaron pressley_brentford b_afc wimbledon_2021_7
+Aaron Ramsdale,2017-01-31,Sheff Utd,Bournemouth,50000,940000,427568,2017013111427568,281259,Transfer,EUR,433506,aaron ramsdale_sheff utd_bournemouth_2017_1
+Aaron Ramsdale,2018-05-31,Chesterfield FC,Bournemouth,5e+05,NA,427568,2018053111427568,551146,Back from Loan,EUR,433506,aaron ramsdale_chesterfield_bournemouth_2018_5
+Aaron Ramsdale,2024-08-30,Arsenal,Southampton,2.5e+07,21400000,427568,2024083011427568,2405320,Transfer,EUR,433506,aaron ramsdale_arsenal_southampton_2024_8
+Aaron Ramsdale,2019-05-31,AFC Wimbledon,Bournemouth,5e+05,NA,427568,2019053111427568,706817,Back from Loan,EUR,433506,aaron ramsdale_afc wimbledon_bournemouth_2019_5
+Aaron Ramsdale,2019-01-04,Bournemouth,AFC Wimbledon,5e+05,NA,427568,2019010411427568,706816,Loan,EUR,433506,aaron ramsdale_bournemouth_afc wimbledon_2019_1
+Aaron Ramsdale,2021-08-20,Sheff Utd,Arsenal,1.2e+07,2.8e+07,427568,2021082011427568,1413521,Transfer,EUR,433506,aaron ramsdale_sheff utd_arsenal_2021_8
+Aaron Ramsdale,2018-01-05,Bournemouth,Chesterfield FC,5e+05,NA,427568,2018010511427568,551145,Loan,EUR,433506,aaron ramsdale_bournemouth_chesterfield_2018_1
+Aaron Ramsdale,2020-08-19,Bournemouth,Sheff Utd,12500000,20500000,427568,2020081911427568,972286,Transfer,EUR,433506,aaron ramsdale_bournemouth_sheff utd_2020_8
+Aaron Ramsey,2022-05-31,Cheltenham,Aston Villa U23,1e+06,NA,646658,202205311123646658,1552881,Back from Loan,EUR,564026,aaron ramsey_cheltenham_aston villa u23_2022_5
+Aaron Ramsey,2008-07-01,Cardiff,Arsenal,5e+06,6400000,646658,200807011123646658,103689,Transfer,EUR,7870,aaron ramsey_cardiff_arsenal_2008_7
+Aaron Ramsey,2022-01-11,Aston Villa U23,Cheltenham,1e+06,NA,50057,2022011141750057,1552880,Loan,EUR,564026,aaron ramsey_aston villa u23_cheltenham_2022_1
+Aaron Ramsey,2023-08-22,Aston Villa U21,Burnley,5e+06,16450000,50057,2023082241750057,2055836,Transfer,EUR,564026,aaron ramsey_aston villa u21_burnley_2023_8
+Aaron Ramsey,2022-01-31,Juventus,Rangers,5e+06,NA,50057,2022013141750057,1576787,Loan,EUR,7870,aaron ramsey_juventus_rangers_2022_1
+Aaron Ramsey,2022-05-31,Rangers,Juventus,5e+06,NA,50057,2022053141750057,1572040,Back from Loan,EUR,7870,aaron ramsey_rangers_juventus_2022_5
+Aaron Ramsey,2022-01-31,Juventus,Rangers,5e+06,NA,646658,202201311123646658,1576787,Loan,EUR,7870,aaron ramsey_juventus_rangers_2022_1
+Aaron Ramsey,2023-05-31,Middlesbrough,Aston Villa U21,5e+06,NA,50057,2023053141750057,1857390,Back from Loan,EUR,564026,aaron ramsey_middlesbrough_aston villa u21_2023_5
+Aaron Ramsey,2010-12-31,Nottm Forest,Arsenal,6e+06,NA,646658,201012311123646658,1572164,Back from Loan,EUR,7870,aaron ramsey_nottm forest_arsenal_2010_12
+Aaron Ramsey,2010-12-31,Nottm Forest,Arsenal,6e+06,NA,50057,2010123141750057,1572164,Back from Loan,EUR,7870,aaron ramsey_nottm forest_arsenal_2010_12
+Aaron Ramsey,2022-01-11,Aston Villa U23,Cheltenham,1e+06,NA,646658,202201111123646658,1552880,Loan,EUR,564026,aaron ramsey_aston villa u23_cheltenham_2022_1
+Aaron Ramsey,2010-11-25,Arsenal,Nottm Forest,6e+06,NA,646658,201011251123646658,103687,Loan,,7870,aaron ramsey_arsenal_nottm forest_2010_11
+Aaron Ramsey,2011-02-28,Cardiff,Arsenal,6e+06,NA,50057,2011022841750057,103689,Transfer,EUR,7870,aaron ramsey_cardiff_arsenal_2011_2
+Aaron Ramsey,2011-01-31,Arsenal,Cardiff,6e+06,NA,646658,201101311123646658,103688,Loan,,7870,aaron ramsey_arsenal_cardiff_2011_1
+Aaron Ramsey,2023-01-31,Aston Villa U21,Middlesbrough,3e+06,NA,646658,202301311123646658,1857389,Loan,EUR,564026,aaron ramsey_aston villa u21_middlesbrough_2023_1
+Aaron Ramsey,2010-11-25,Arsenal,Nottm Forest,6e+06,NA,50057,2010112541750057,103687,Loan,,7870,aaron ramsey_arsenal_nottm forest_2010_11
+Aaron Ramsey,2023-05-31,Middlesbrough,Aston Villa U21,5e+06,NA,646658,202305311123646658,1857390,Back from Loan,EUR,564026,aaron ramsey_middlesbrough_aston villa u21_2023_5
+Aaron Ramsey,2023-01-03,Norwich,Aston Villa U21,3e+06,NA,646658,202301031123646658,1713438,Back from Loan,EUR,564026,aaron ramsey_norwich_aston villa u21_2023_1
+Aaron Ramsey,2019-07-01,Arsenal,Juventus,4e+07,0,50057,2019070141750057,758866,Transfer,EUR,7870,aaron ramsey_arsenal_juventus_2019_7
+Aaron Ramsey,2022-08-05,Aston Villa U21,Norwich,1e+06,NA,646658,202208051123646658,1713436,Loan,EUR,564026,aaron ramsey_aston villa u21_norwich_2022_8
+Aaron Ramsey,2023-01-31,Aston Villa U21,Middlesbrough,3e+06,NA,50057,2023013141750057,1857389,Loan,EUR,564026,aaron ramsey_aston villa u21_middlesbrough_2023_1
+Aaron Ramsey,2023-01-03,Norwich,Aston Villa U21,3e+06,NA,50057,2023010341750057,1713438,Back from Loan,EUR,564026,aaron ramsey_norwich_aston villa u21_2023_1
+Aaron Ramsey,2008-07-01,Cardiff,Arsenal,5e+06,6400000,50057,2008070141750057,103689,Transfer,EUR,7870,aaron ramsey_cardiff_arsenal_2008_7
+Aaron Ramsey,2023-08-22,Aston Villa U21,Burnley,5e+06,16450000,646658,202308221123646658,2055836,Transfer,EUR,564026,aaron ramsey_aston villa u21_burnley_2023_8
+Aaron Ramsey,2011-01-31,Arsenal,Cardiff,6e+06,NA,50057,2011013141750057,103688,Loan,,7870,aaron ramsey_arsenal_cardiff_2011_1
+Aaron Ramsey,2022-08-01,Juventus,OGC Nice,3e+06,0,646658,202208011123646658,1698022,Transfer,EUR,7870,aaron ramsey_juventus_ogc nice_2022_8
+Aaron Ramsey,2022-08-05,Aston Villa U21,Norwich,1e+06,NA,50057,2022080541750057,1713436,Loan,EUR,564026,aaron ramsey_aston villa u21_norwich_2022_8
+Aaron Ramsey,2022-08-01,Juventus,OGC Nice,3e+06,0,50057,2022080141750057,1698022,Transfer,EUR,7870,aaron ramsey_juventus_ogc nice_2022_8
+Aaron Ramsey,2011-02-28,Cardiff,Arsenal,6e+06,NA,646658,201102281123646658,103689,Transfer,EUR,7870,aaron ramsey_cardiff_arsenal_2011_2
+Aaron Reid,2023-07-01,Aberdeen FC,Peterhead,NA,NA,967523,2023070123621967523,2011073,Loan,EUR,889568,aaron reid_aberdeen_peterhead_2023_7
+Aaron Reid,2024-01-03,Peterhead,Aberdeen FC,NA,NA,967523,2024010323621967523,2282776,Back from Loan,EUR,889568,aaron reid_peterhead_aberdeen_2024_1
+Aaron Reid,2023-01-01,Turriff United,Aberdeen FC,NA,NA,967523,2023010123621967523,2282778,Back from Loan,EUR,889568,aaron reid_turriff united_aberdeen_2023_1
+Aaron Reid,2023-05-31,Elgin City,Aberdeen FC,NA,NA,967523,2023053123621967523,2282775,Back from Loan,EUR,889568,aaron reid_elgin city_aberdeen_2023_5
+Aaron Reid,2024-07-01,Aberdeen FC,Airdrieonians,NA,0,967523,2024070123621967523,2282779,Transfer,EUR,889568,aaron reid_aberdeen_airdrieonians_2024_7
+Aaron Reid,2024-05-31,Formartine,Aberdeen FC,NA,NA,967523,2024053123621967523,2282778,Back from Loan,EUR,889568,aaron reid_formartine_aberdeen_2024_5
+Aaron Reid,2024-01-05,Aberdeen FC,Formartine,NA,NA,967523,2024010523621967523,2282777,Loan,EUR,889568,aaron reid_aberdeen_formartine_2024_1
+Aaron Reid,2023-01-02,Aberdeen FC,Elgin City,NA,NA,967523,2023010223621967523,1823732,Loan,EUR,889568,aaron reid_aberdeen_elgin city_2023_1
+Aaron Riedel,2021-07-01,Chemnitz Yth.,Chemnitz U17,NA,NA,920101,2021070135237920101,1395850,Free Transfer,EUR,764299,aaron riedel_chemnitz yth._chemnitz u17_2021_7
+Aaron Riedel,2023-07-01,Chemnitz U17,U. Berlin U19,NA,0,920101,2023070135237920101,2008775,Transfer,EUR,764299,aaron riedel_chemnitz u17_u. berlin u19_2023_7
+Aaron Rowe,2020-01-31,Huddersf. U19,Bromley,NA,NA,657994,202001311110657994,1049518,Loan,EUR,603718,aaron rowe_huddersf. u19_bromley_2020_1
+Aaron Rowe,2024-07-01,Huddersfield,Gillingham FC,150000,0,657994,202407011110657994,2282527,Transfer,EUR,603718,aaron rowe_huddersfield_gillingham_2024_7
+Aaron Rowe,2020-01-06,Boston Utd,Huddersf. U19,NA,NA,657994,202001061110657994,1049515,Back from Loan,EUR,603718,aaron rowe_boston utd_huddersf. u19_2020_1
+Aaron Rowe,2023-01-31,Huddersfield,Stockport,2e+05,NA,657994,202301311110657994,1859443,Loan,EUR,603718,aaron rowe_huddersfield_stockport_2023_1
+Aaron Rowe,2024-05-31,Crewe Alexandra,Huddersfield,150000,NA,657994,202405311110657994,2083295,Back from Loan,EUR,603718,aaron rowe_crewe alexandra_huddersfield_2024_5
+Aaron Rowe,2020-02-29,Bromley,Huddersf. U19,NA,NA,657994,202002291110657994,1049519,Back from Loan,EUR,603718,aaron rowe_bromley_huddersf. u19_2020_2
+Aaron Rowe,2023-08-30,Huddersfield,Crewe Alexandra,150000,NA,657994,202308301110657994,2083294,Loan,EUR,603718,aaron rowe_huddersfield_crewe alexandra_2023_8
+Aaron Rowe,2023-05-31,Stockport,Huddersfield,175000,NA,657994,202305311110657994,1970991,Back from Loan,EUR,603718,aaron rowe_stockport_huddersfield_2023_5
+Aaron Rowe,2019-12-06,Huddersf. U19,Boston Utd,NA,NA,657994,201912061110657994,1049514,Loan,EUR,603718,aaron rowe_huddersf. u19_boston utd_2019_12
+Aaron Scott,2015-07-01,Team Wellington,Waitakere Utd.,250000,0,81745,201507012627281745,164647,Transfer,,77170,aaron scott_team wellington_waitakere utd._2015_7
+Aaron Scott,2013-07-01,Waitakere Utd.,WaiBOP United,275000,0,81745,201307012627281745,164649,Free Transfer,,77170,aaron scott_waitakere utd._waibop united_2013_7
+Aaron Scott,2017-07-01,Hamilton W.,Melville,1e+05,0,81745,201707012627281745,1782931,Transfer,EUR,77170,aaron scott_hamilton w._melville_2017_7
+Aaron Scott,2016-10-01,Waitakere Utd.,Hamilton W.,150000,0,81745,201610012627281745,1268540,Transfer,EUR,77170,aaron scott_waitakere utd._hamilton w._2016_10
+Aaron Scott,2015-03-16,WaiBOP United,Team Wellington,225000,0,81745,201503162627281745,164648,Transfer,,77170,aaron scott_waibop united_team wellington_2015_3
+Aaron Seydel,2020-01-11,1.FSV Mainz 05,J. Regensburg,4e+05,NA,187499,20200111105187499,874555,Loan,EUR,275060,aaron seydel_1.fsv mainz 05_j. regensburg_2020_1
+Aaron Seydel,2020-06-30,J. Regensburg,1.FSV Mainz 05,325000,NA,187499,20200630105187499,874556,Back from Loan,EUR,275060,aaron seydel_j. regensburg_1.fsv mainz 05_2020_6
+Aaron Seydel,2019-06-30,Holstein Kiel,1.FSV Mainz 05,4e+05,NA,187499,20190630105187499,646181,Back from Loan,EUR,275060,aaron seydel_holstein kiel_1.fsv mainz 05_2019_6
+Aaron Seydel,2020-08-06,1.FSV Mainz 05,Darmstadt 98,325000,0,187499,20200806105187499,968112,Transfer,EUR,275060,aaron seydel_1.fsv mainz 05_darmstadt 98_2020_8
+Aaron Seydel,2024-07-01,Darmstadt 98,Without Club,5e+05,NA,187499,20240701105187499,2295550,Free Agent,EUR,275060,aaron seydel_darmstadt 98_without_2024_7
+Aaron Seydel,2017-08-24,1.FSV Mainz 05,Holstein Kiel,5e+05,NA,187499,20170824105187499,646180,Loan,EUR,275060,aaron seydel_1.fsv mainz 05_holstein kiel_2017_8
+Aaron Sieders,2023-01-23,Sportlust '46,DOVO,NA,0,593818,2023012326016593818,1790565,Free Transfer,EUR,874425,aaron sieders_sportlust '46_dovo_2023_1
+Aaron Simpson,2018-08-22,Wolves U21,Jumilla,50000,NA,346270,2018082221652346270,661608,Loan,EUR,353171,aaron simpson_wolves u21_jumilla_2018_8
+Aaron Simpson,2019-07-23,Waterford FC,Dover Athletic,50000,0,346270,2019072321652346270,944635,Free Agent,EUR,353171,aaron simpson_waterford_dover athletic_2019_7
+Aaron Simpson,2024-08-01,Salisbury,Gainsborough,NA,0,346270,2024080121652346270,2350067,Transfer,EUR,353171,aaron simpson_salisbury_gainsborough_2024_8
+Aaron Simpson,2019-01-04,Jumilla,Wolves U21,50000,NA,346270,2019010421652346270,743141,Back from Loan,EUR,353171,aaron simpson_jumilla_wolves u21_2019_1
+Aaron Simpson,2023-07-08,Chippenham,Salisbury,NA,0,346270,2023070821652346270,2013126,Transfer,EUR,353171,aaron simpson_chippenham_salisbury_2023_7
+Aaron Simpson,2020-10-03,Dover Athletic,Sutton Utd,NA,0,346270,2020100321652346270,944635,Free Agent,EUR,353171,aaron simpson_dover athletic_sutton utd_2020_10
+Aaron Simpson,2021-07-01,Sutton Utd,Without Club,NA,NA,346270,2021070121652346270,1320853,Free Agent,EUR,353171,aaron simpson_sutton utd_without_2021_7
+Aaron Simpson,2018-01-31,Wolves U21,Kilmarnock FC,NA,NA,346270,2018013121652346270,661608,Loan,EUR,353171,aaron simpson_wolves u21_kilmarnock_2018_1
+Aaron Simpson,2019-03-29,Wolves U21,Waterford FC,50000,0,346270,2019032921652346270,749485,Transfer,EUR,353171,aaron simpson_wolves u21_waterford_2019_3
+Aaron Sky Schwarz,2024-06-30,A. Klagenfurt,Rapid Wien II,4e+05,NA,604458,202406307001604458,2293185,Back from Loan,EUR,630673,aaron schwarz_a. klagenfurt_rapid wien ii_2024_6
+Aaron Sky Schwarz,2023-08-01,Rapid Wien II,A. Klagenfurt,150000,NA,604458,202308017001604458,2026519,Loan,EUR,630673,aaron schwarz_rapid wien ii_a. klagenfurt_2023_8
+Aaron Sky Schwarz,2023-01-01,AKA Rapid U18,Rapid Wien II,NA,NA,604458,202301017001604458,1802407,Transfer,EUR,630673,aaron schwarz_aka rapid u18_rapid wien ii_2023_1
+Aaron Sky Schwarz,2024-07-01,Rapid Wien II,TSV Hartberg,4e+05,NA,604458,202407017001604458,2293192,Loan,EUR,630673,aaron schwarz_rapid wien ii_tsv hartberg_2024_7
+Aaron Sky Schwarz,2025-06-30,TSV Hartberg,Rapid Wien II,4e+05,NA,604458,202506307001604458,2293194,Back from Loan,EUR,630673,aaron schwarz_tsv hartberg_rapid wien ii_2025_6
+Aaron Sothen,2022-01-27,Halle U19,FC Eilenburg,25000,0,694791,2022012740802694791,1588573,Transfer,EUR,622893,aaron sothen_halle u19_eilenburg_2022_1
+Aaron Sothen,2022-07-07,FC Eilenburg,G. Halberstadt,10000,0,694791,2022070740802694791,1708889,Transfer,EUR,622893,aaron sothen_eilenburg_g. halberstadt_2022_7
+Aaron Sothen,2023-01-31,G. Halberstadt,SV BW Zorbau,NA,0,694791,2023013140802694791,1858915,Transfer,EUR,622893,aaron sothen_g. halberstadt_sv bw zorbau_2023_1
+Aaron Spetale,2023-12-31,Nueva Chicago,Estudiantes II,2e+05,NA,965683,2023123110534965683,2190464,Transfer,EUR,799347,aaron spetale_nueva chicago_estudiantes ii_2023_12
+Aaron Spetale,2022-12-31,Danubio FC,Estudiantes II,250000,NA,965683,2022123110534965683,1677994,Back from Loan,EUR,799347,aaron spetale_danubio_estudiantes ii_2022_12
+Aaron Spetale,2021-01-01,Estudiantes U20,Estudiantes II,NA,NA,965683,2021010110534965683,1526910,Transfer,EUR,799347,aaron spetale_estudiantes u20_estudiantes ii_2021_1
+Aaron Spetale,2022-07-13,Estudiantes II,Danubio FC,50000,NA,965683,2022071310534965683,1677993,Loan,EUR,799347,aaron spetale_estudiantes ii_danubio_2022_7
+Aaron Spetale,2023-01-02,Estudiantes II,Nueva Chicago,250000,NA,965683,2023010210534965683,1828482,Transfer,EUR,799347,aaron spetale_estudiantes ii_nueva chicago_2023_1
+Aaron Steele,2021-05-07,East Fife,St. Johnst. B,NA,NA,694210,202105073024694210,2129788,Back from Loan,EUR,740723,aaron steele_east fife_st. johnst. b_2021_5
+Aaron Steele,2023-07-01,East Fife,Arbroath,NA,0,694210,202307013024694210,1998285,Transfer,EUR,740723,aaron steele_east fife_arbroath_2023_7
+Aaron Steele,2021-03-31,St. Johnst. B,East Fife,NA,NA,694210,202103313024694210,2129790,Transfer,EUR,740723,aaron steele_st. johnst. b_east fife_2021_3
+Aaron Steele,2021-07-01,St. Johnst. B,East Fife,NA,0,694210,202107013024694210,2129790,Transfer,EUR,740723,aaron steele_st. johnst. b_east fife_2021_7
+Aaron Taylor-Sinclair,2021-07-01,Livingston FC,Without Club,275000,NA,121032,202107012802121032,1319232,Free Agent,EUR,62251,aaron taylor-sinclair_livingston_without_2021_7
+Aaron Taylor-Sinclair,2022-09-01,Falkirk,Airdrieonians,NA,0,121032,202209012802121032,1689053,Transfer,EUR,62251,aaron taylor-sinclair_falkirk_airdrieonians_2022_9
+Aaron Taylor-Sinclair,2017-07-01,Doncaster,Plymouth,250000,0,121032,201707012802121032,318655,Transfer,EUR,62251,aaron taylor-sinclair_doncaster_plymouth_2017_7
+Aaron Taylor-Sinclair,2011-07-01,Montrose,Partick Thistle,NA,NA,121032,201107012802121032,201292,Transfer,,62251,aaron taylor-sinclair_montrose_partick thistle_2011_7
+Aaron Taylor-Sinclair,2019-11-06,Without Club,Livingston FC,2e+05,NA,121032,201911062802121032,1319232,Free Agent,EUR,62251,aaron taylor-sinclair_without_livingston_2019_11
+Aaron Taylor-Sinclair,2008-07-01,Montrose U20,Montrose,NA,NA,121032,200807012802121032,1765133,Free Transfer,EUR,62251,aaron taylor-sinclair_montrose u20_montrose_2008_7
+Aaron Taylor-Sinclair,2018-07-01,Plymouth,Motherwell FC,250000,0,121032,201807012802121032,612546,Transfer,EUR,62251,aaron taylor-sinclair_plymouth_motherwell_2018_7
+Aaron Taylor-Sinclair,2019-05-30,Crewe Alexandra,Motherwell FC,250000,NA,121032,201905302802121032,724120,Back from Loan,EUR,62251,aaron taylor-sinclair_crewe alexandra_motherwell_2019_5
+Aaron Taylor-Sinclair,2015-07-20,Wigan,Doncaster,250000,0,121032,201507202802121032,88038,Transfer,,62251,aaron taylor-sinclair_wigan_doncaster_2015_7
+Aaron Taylor-Sinclair,2022-01-01,Without Club,Falkirk,275000,NA,121032,202201012802121032,1538437,Free Transfer,EUR,62251,aaron taylor-sinclair_without_falkirk_2022_1
+Aaron Taylor-Sinclair,2019-01-30,Motherwell FC,Crewe Alexandra,250000,NA,121032,201901302802121032,724119,Loan,EUR,62251,aaron taylor-sinclair_motherwell_crewe alexandra_2019_1
+Aaron Taylor-Sinclair,2019-07-01,Motherwell FC,Without Club,250000,NA,121032,201907012802121032,760246,Free Agent,EUR,62251,aaron taylor-sinclair_motherwell_without_2019_7
+Aaron Taylor-Sinclair,2014-07-01,Partick Thistle,Wigan,350000,0,121032,201407012802121032,88039,Transfer,,62251,aaron taylor-sinclair_partick thistle_wigan_2014_7
+Aaron Tshibola,2018-08-29,Aston Villa,Kilmarnock FC,1500000,NA,243633,20180829786243633,661341,Loan,EUR,280873,aaron tshibola_aston villa_kilmarnock_2018_8
+Aaron Tshibola,2017-01-30,Aston Villa,Nottm Forest,3e+06,NA,243633,20170130786243633,283765,Loan,,280873,aaron tshibola_aston villa_nottm forest_2017_1
+Aaron Tshibola,2022-08-12,Genclerbirligi,AEL Limassol,350000,NA,243633,20220812786243633,1738140,Transfer,EUR,280873,aaron tshibola_genclerbirligi_ael limassol_2022_8
+Aaron Tshibola,2016-07-10,Reading,Aston Villa,2e+05,5900000,243633,20160710786243633,283766,Transfer,EUR,280873,aaron tshibola_reading_aston villa_2016_7
+Aaron Tshibola,2017-07-27,Aston Villa,MK Dons,3e+06,NA,243633,20170727786243633,495492,Loan,,280873,aaron tshibola_aston villa_mk dons_2017_7
+Aaron Tshibola,2014-07-01,Reading U21,Reading,NA,NA,243633,20140701786243633,1426062,Free Transfer,EUR,280873,aaron tshibola_reading u21_reading_2014_7
+Aaron Tshibola,2017-05-31,Nottm Forest,Aston Villa,3e+06,NA,243633,20170531786243633,260338,Back from Loan,,280873,aaron tshibola_nottm forest_aston villa_2017_5
+Aaron Tshibola,2021-07-09,Kilmarnock FC,Genclerbirligi,4e+05,0,243633,20210709786243633,1319808,Transfer,EUR,280873,aaron tshibola_kilmarnock_genclerbirligi_2021_7
+Aaron Tshibola,2018-05-14,Kilmarnock FC,Aston Villa,1500000,NA,243633,20180514786243633,661342,Back from Loan,EUR,280873,aaron tshibola_kilmarnock_aston villa_2018_5
+Aaron Tshibola,2017-11-09,MK Dons,Aston Villa,1500000,NA,243633,20171109786243633,495491,Back from Loan,,280873,aaron tshibola_mk dons_aston villa_2017_11
+Aaron Tshibola,2019-08-29,Aston Villa,Waasland-Beveren,1500000,NA,243633,20190829786243633,823446,Transfer,EUR,280873,aaron tshibola_aston villa_waasland-beveren_2019_8
+Aaron Tshibola,2020-01-31,Waasland-Beveren,Desportivo Aves,1e+06,0,243633,20200131786243633,890079,Transfer,EUR,280873,aaron tshibola_waasland-beveren_desportivo aves_2020_1
+Aaron Tshibola,2015-05-31,Hartlepool,Reading,1e+05,NA,243633,20150531786243633,90872,Back from Loan,,280873,aaron tshibola_hartlepool_reading_2015_5
+Aaron Tshibola,2023-08-11,AEL Limassol,Hatta Club,350000,2e+05,243633,20230811786243633,2035546,Transfer,EUR,280873,aaron tshibola_ael limassol_hatta_2023_8
+Aaron Tshibola,2015-01-02,Reading,Hartlepool,1e+05,NA,243633,20150102786243633,90873,Loan,,280873,aaron tshibola_reading_hartlepool_2015_1
+Aaron Tshibola,2019-05-20,Kilmarnock FC,Aston Villa,1500000,NA,243633,20190520786243633,661342,Back from Loan,EUR,280873,aaron tshibola_kilmarnock_aston villa_2019_5
+Aaron Tshibola,2020-07-31,Desportivo Aves,Kilmarnock FC,8e+05,0,243633,20200731786243633,953706,Transfer,EUR,280873,aaron tshibola_desportivo aves_kilmarnock_2020_7
+Aaron Tshibola,2018-01-29,Aston Villa,Kilmarnock FC,1500000,NA,243633,20180129786243633,661341,Loan,EUR,280873,aaron tshibola_aston villa_kilmarnock_2018_1
+Aaron Tshimuanga,2023-02-27,Estoril U23,Krumovgrad,NA,0,606085,2023022791158606085,1959576,Free Agent,EUR,580335,aaron tshimuanga_estoril u23_krumovgrad_2023_2
+Aaron Tshimuanga,2023-07-01,Krumovgrad,Without Club,10000,NA,606085,2023070191158606085,1959576,Free Agent,EUR,580335,aaron tshimuanga_krumovgrad_without_2023_7
+Aaron Walker,2017-12-01,Cincinnati,Without Club,25000,NA,373782,2017120169055373782,539703,Transfer,,380437,aaron walker_cincinnati_without_2017_12
+Aaron Walker,2017-01-06,Without Club,Cincinnati,NA,NA,373782,2017010669055373782,539703,Transfer,,380437,aaron walker_without_cincinnati_2017_1
+Aaron Waller,2023-12-19,Edinburgh U20,Without Club,NA,NA,1082149,20231219128861082149,2180185,Free Agent,EUR,884418,aaron waller_edinburgh u20_without_2023_12
+Aaron Wan-Bissaka,2024-08-13,Man Utd,West Ham,2e+07,17600000,477758,20240813985477758,2369488,Transfer,EUR,486252,aaron wan-bissaka_man utd_west ham_2024_8
+Aaron Wan-Bissaka,2018-01-01,Palace U21,Crystal Palace,NA,NA,477758,20180101985477758,1085440,Free Transfer,EUR,486252,aaron wan-bissaka_palace u21_crystal palace_2018_1
+Aaron Wan-Bissaka,2019-07-01,Crystal Palace,Man Utd,3.5e+07,5.5e+07,477758,20190701985477758,767193,Transfer,EUR,486252,aaron wan-bissaka_crystal palace_man utd_2019_7
+Aaron Wande,2023-06-30,Sunshine Stars,FC Cilicia,NA,NA,1134726,20230630170641134726,2242316,Back from Loan,EUR,966633,aaron wande_sunshine stars_cilicia_2023_6
+Aaron Wande,2023-04-01,FC Cilicia,Sunshine Stars,NA,NA,1134726,20230401170641134726,2038149,Loan,EUR,966633,aaron wande_cilicia_sunshine stars_2023_4
+Aaron Wande,2024-02-01,FC Nikarm,FC Cilicia,25000,NA,1134726,20240201170641134726,2242319,Transfer,EUR,966633,aaron wande_nikarm_cilicia_2024_2
+Aaron Wande,2023-08-04,FC Cilicia,FC Nikarm,NA,NA,1134726,20230804170641134726,2038149,Loan,EUR,966633,aaron wande_cilicia_nikarm_2023_8
+Aaron Wheeler,2012-01-01,Fort Lauderdale,FC KTP,NA,0,158313,2012010145805158313,106823,Free Transfer,,59381,aaron wheeler_fort lauderdale_ktp_2012_1
+Aaron Wheeler,2013-01-20,FC KTP,Philadelphia,NA,0,158313,2013012045805158313,106822,Free Transfer,,59381,aaron wheeler_ktp_philadelphia_2013_1
+Aaron Wheeler,2017-12-01,Penn FC,Career break,150000,NA,158313,2017120145805158313,598783,Free Agent,,59381,aaron wheeler_penn_career break_2017_12
+Aaron Wildig,2015-05-31,Morecambe FC,Shrewsbury,250000,NA,121831,201505313716121831,90347,Back from Loan,,13464,aaron wildig_morecambe_shrewsbury_2015_5
+Aaron Wildig,2011-11-08,Cardiff,Shrewsbury,250000,NA,121831,201111083716121831,285444,Loan,,13464,aaron wildig_cardiff_shrewsbury_2011_11
+Aaron Wildig,2022-07-01,Morecambe FC,Newport County,250000,0,121831,202207013716121831,1654800,Transfer,EUR,13464,aaron wildig_morecambe_newport county_2022_7
+Aaron Wildig,2012-07-01,Cardiff,Shrewsbury,250000,0,121831,201207013716121831,285444,Loan,,13464,aaron wildig_cardiff_shrewsbury_2012_7
+Aaron Wildig,2015-07-01,Shrewsbury,Morecambe FC,250000,0,121831,201507013716121831,90346,Transfer,EUR,13464,aaron wildig_shrewsbury_morecambe_2015_7
+Aaron Wildig,2015-02-19,Kidderminster,Shrewsbury,250000,NA,121831,201502193716121831,90349,Back from Loan,,13464,aaron wildig_kidderminster_shrewsbury_2015_2
+Aaron Wildig,2015-01-19,Shrewsbury,Kidderminster,250000,NA,121831,201501193716121831,90350,Loan,,13464,aaron wildig_shrewsbury_kidderminster_2015_1
+Aaron Wildig,2015-03-20,Shrewsbury,Morecambe FC,250000,NA,121831,201503203716121831,90346,Transfer,EUR,13464,aaron wildig_shrewsbury_morecambe_2015_3
+Aaron Williams-Bushell,2022-07-22,Maldon/Tiptree,Oxford City,NA,0,834097,2022072222563834097,1705526,Transfer,EUR,701214,aaron williams-bushell_maldon/tiptree_oxford city_2022_7
+Aaron Winkler,2022-07-01,Nürnberg Yth.,Nürnberg U17,NA,NA,1004155,20220701210491004155,1625025,Free Transfer,EUR,822622,aaron winkler_nurnberg yth._nurnberg u17_2022_7
+Aaron Zehnter,2021-07-01,FC Augsburg U17,FC Augsburg U19,NA,NA,730484,202107014780730484,1686207,Transfer,EUR,648562,aaron zehnter_augsburg u17_augsburg u19_2021_7
+Aaron Zehnter,2024-01-04,FC Augsburg,SC Paderborn,3e+05,NA,730484,202401044780730484,2180553,Transfer,EUR,648562,aaron zehnter_augsburg_sc paderborn_2024_1
+Aaron Zehnter,2020-07-01,Augsburg Yth.,FC Augsburg U17,NA,NA,730484,202007014780730484,2199992,Transfer,EUR,648562,aaron zehnter_augsburg yth._augsburg u17_2020_7
+Aaron Zehnter,2022-07-01,FC Augsburg U19,FC Augsburg,NA,NA,730484,202207014780730484,1686207,Transfer,EUR,648562,aaron zehnter_augsburg u19_augsburg_2022_7
+Aarran Racine,2016-12-01,Forest Green,York City,NA,NA,84786,20161201812384786,283353,Loan,,224254,aarran racine_forest green_york city_2016_12
+Aarran Racine,2021-07-01,Career break,Worthing,NA,NA,84786,20210701812384786,1705092,Free Transfer,EUR,224254,aarran racine_career break_worthing_2021_7
+Aarran Racine,2018-03-21,Without Club,Worthing,NA,NA,84786,20180321812384786,1705088,Free Transfer,EUR,224254,aarran racine_without_worthing_2018_3
+Aarran Racine,2020-10-12,Worthing,Career break,NA,NA,84786,20201012812384786,1705089,Free Agent,EUR,224254,aarran racine_worthing_career break_2020_10
+Aarran Racine,2017-01-01,York City,Forest Green,NA,NA,84786,20170101812384786,258846,Back from Loan,,224254,aarran racine_york city_forest green_2017_1
+Aarran Racine,2017-01-26,Forest Green,Torquay,NA,NA,84786,20170126812384786,1705086,Free Agent,EUR,224254,aarran racine_forest green_torquay_2017_1
+Aarran Racine,2017-08-04,Forest Green,Without Club,NA,NA,84786,20170804812384786,1705086,Free Agent,EUR,224254,aarran racine_forest green_without_2017_8
+Aarran Racine,2024-01-22,Worthing,Retired,NA,NA,84786,20240122812384786,1705089,Free Agent,EUR,224254,aarran racine_worthing_retired_2024_1
+Aarran Racine,2017-05-31,Torquay,Forest Green,NA,NA,84786,20170531812384786,260007,Back from Loan,,224254,aarran racine_torquay_forest green_2017_5
+Aarón Carnero,2018-07-01,Regatas Lima,Atlético Grau,NA,NA,674694,2018070111247674694,1902883,Transfer,EUR,611141,aaron carnero_regatas lima_atletico grau_2018_7
+Aarón Escandell,2024-07-10,UD Las Palmas,Real Oviedo,1e+06,0,284430,202407107077284430,2302111,Transfer,EUR,291221,aaron escandell_ud las palmas_real oviedo_2024_7
+Aarón Escandell,2023-07-24,FC Cartagena,UD Las Palmas,1e+06,4e+05,284430,202307247077284430,1987917,Transfer,EUR,291221,aaron escandell_cartagena_ud las palmas_2023_7
+Aarón Escandell,2022-07-02,Granada CF,FC Cartagena,1e+06,0,284430,202207027077284430,1673645,Transfer,EUR,291221,aaron escandell_granada cf_cartagena_2022_7
+Aarón Escandell,2018-07-01,Recre Granada,Granada CF,250000,NA,284430,201807017077284430,2025382,Transfer,EUR,291221,aaron escandell_recre granada_granada cf_2018_7
+Aarón Guillén,2018-01-01,Dallas,Without Club,175000,NA,415334,2018010123565415334,1264591,Loan,EUR,330974,aaron guillen_dallas_without_2018_1
+Aarón Guillén,2013-05-01,FGCU Eagles,Austin Aztex,NA,NA,415334,2013050123565415334,514014,Loan,,330974,aaron guillen_fgcu eagles_austin aztex_2013_5
+Aarón Guillén,2017-08-05,Dallas,Roughnecks FC,1e+05,NA,415334,2017080523565415334,1264591,Loan,EUR,330974,aaron guillen_dallas_roughnecks_2017_8
+Aarón Guillén,2013-08-01,Austin Aztex,FGCU Eagles,NA,NA,415334,2013080123565415334,1264583,Back from Loan,EUR,330974,aaron guillen_austin aztex_fgcu eagles_2013_8
+Aarón Guillén,2016-01-05,FGCU Eagles,Dallas,NA,0,415334,2016010523565415334,1264592,Back from Loan,EUR,330974,aaron guillen_fgcu eagles_dallas_2016_1
+Aarón Guillén,2019-12-18,North Carolina,TB Rowdies,175000,0,415334,2019121823565415334,861996,Transfer,EUR,330974,aaron guillen_north carolina_tb rowdies_2019_12
+Aarón Guillén,2017-11-30,Roughnecks FC,Dallas,1e+05,NA,415334,2017113023565415334,1264592,Back from Loan,EUR,330974,aaron guillen_roughnecks_dallas_2017_11
+Aarón Guillén,2018-03-15,Without Club,North Carolina,175000,NA,415334,2018031523565415334,587108,Free Transfer,EUR,330974,aaron guillen_without_north carolina_2018_3
+Aarón Herrera,2022-12-21,Salt Lake,Montréal,2e+06,471000,401362,202212214078401362,1817291,Transfer,EUR,435103,aaron herrera_salt lake_montreal_2022_12
+Aarón Herrera,2023-12-12,Montréal,D.C. United,2e+06,464000,401362,202312124078401362,2162109,Transfer,EUR,435103,aaron herrera_montreal_d.c. united_2023_12
+Aarón Lowis,2023-01-01,San Francisco,Atl. Chiriquí,25000,0,866293,2023010115962866293,1828230,Transfer,EUR,609594,aaron lowis_san francisco_atl. chiriqui_2023_1
+Aarón Martín,2023-07-03,1.FSV Mainz 05,Genoa,7e+06,0,251878,2023070339251878,1960255,Transfer,EUR,282438,aaron martin_1.fsv mainz 05_genoa_2023_7
+Aarón Martín,2019-06-30,1.FSV Mainz 05,Espanyol,2e+07,NA,251878,2019063039251878,644913,Back from Loan,EUR,282438,aaron martin_1.fsv mainz 05_espanyol_2019_6
+Aarón Martín,2019-07-01,Espanyol,1.FSV Mainz 05,2e+07,8e+06,251878,2019070139251878,757982,Transfer,EUR,282438,aaron martin_espanyol_1.fsv mainz 05_2019_7
+Aarón Martín,2021-06-30,Celta de Vigo,1.FSV Mainz 05,4500000,NA,251878,2021063039251878,1104140,Back from Loan,EUR,282438,aaron martin_celta vigo_1.fsv mainz 05_2021_6
+Aarón Martín,2018-08-06,Espanyol,1.FSV Mainz 05,1.2e+07,NA,251878,2018080639251878,644912,Loan,EUR,282438,aaron martin_espanyol_1.fsv mainz 05_2018_8
+Aarón Martín,2021-01-04,1.FSV Mainz 05,Celta de Vigo,4500000,NA,251878,2021010439251878,1104139,Loan,EUR,282438,aaron martin_1.fsv mainz 05_celta vigo_2021_1
+Aarón Martínez,2021-07-01,Penya Encarnada,FC Ordino,10000,0,626171,2021070146725626171,1520425,Transfer,EUR,479133,aaron martinez_penya encarnada_ordino_2021_7
+Aarón Molinas,2023-12-31,Tigre,Boca Juniors,1800000,NA,575999,2023123111831575999,2271270,Back from Loan,EUR,754290,aaron molinas_tigre_boca juniors_2023_12
+Aarón Molinas,2024-02-01,Boca Juniors,Defensa,1800000,NA,575999,2024020111831575999,2208446,Transfer,EUR,754290,aaron molinas_boca juniors_defensa_2024_2
+Aarón Molinas,2018-01-01,CABJ U20,Boca Juniors II,NA,NA,575999,2018010111831575999,1317336,Free Transfer,EUR,754290,aaron molinas_cabj u20_boca juniors ii_2018_1
+Aarón Molinas,2023-01-30,Boca Juniors,Tigre,3500000,NA,575999,2023013011831575999,2271270,Back from Loan,EUR,754290,aaron molinas_boca juniors_tigre_2023_1
+Aarón Quirós,2024-07-18,Banfield,Vélez Sarsfield,4500000,2760000,881010,20240718830881010,2311438,Transfer,EUR,740035,aaron quiros_banfield_velez sarsfield_2024_7
+Aarón Quirós,2023-01-01,CA Banfield II,Banfield,1e+05,NA,881010,20230101830881010,1199034,Transfer,EUR,740035,aaron quiros_ca banfield ii_banfield_2023_1
+Aarón Quirós,2021-01-01,CA Banfield U20,CA Banfield II,NA,NA,881010,20210101830881010,1199034,Transfer,EUR,740035,aaron quiros_ca banfield u20_ca banfield ii_2021_1
+Aarón Rey,2019-07-25,Celta Vigo B,CE Sabadell ,1e+05,0,430192,201907255648430192,1694963,Transfer,EUR,450780,aaron rey_celta vigo b_ce sabadell_2019_7
+Aarón Rodríguez,2023-01-01,Academia Rey,Estudiantes,50000,NA,988347,2023010114555988347,1899937,Loan,EUR,643852,aaron rodriguez_academia rey_estudiantes_2023_1
+Aarón Rodríguez,2023-12-31,Estudiantes,Academia Rey,150000,NA,988347,2023123114555988347,1899938,Back from Loan,EUR,643852,aaron rodriguez_estudiantes_academia rey_2023_12
+Aarón Rodríguez,2024-01-01,Academia Rey,Estudiantes,150000,NA,988347,2024010114555988347,1899937,Loan,EUR,643852,aaron rodriguez_academia rey_estudiantes_2024_1
+Aarón Rodríguez,2022-12-31,Deportivo Lara,Academia Rey,50000,NA,988347,2022123114555988347,1899933,Back from Loan,EUR,643852,aaron rodriguez_deportivo lara_academia rey_2022_12
+Aarón Rodríguez,2022-01-01,Academia Rey,Deportivo Lara,NA,NA,988347,2022010114555988347,1584318,Loan,EUR,643852,aaron rodriguez_academia rey_deportivo lara_2022_1
+Aarón Romero,2023-01-31,Castellón,UD Almería B,50000,0,623802,202301312502623802,1862750,Transfer,EUR,620174,aaron romero_castellon_ud almeria b_2023_1
+Aarón Romero,2021-07-01,CD Castellón B,Castellón,NA,NA,623802,202107012502623802,1862749,Transfer,EUR,620174,aaron romero_cd castellon b_castellon_2021_7
+Aarón Salazar,2024-07-01,Herediano,AD San Carlos,250000,NA,481107,202407012677481107,2287421,Transfer,EUR,488174,aaron salazar_herediano_ad san carlos_2024_7
+Aarón Salazar,2019-07-31,AD San Carlos,Herediano U20,225000,NA,481107,201907312677481107,837519,Back from Loan,EUR,488174,aaron salazar_ad san carlos_herediano u20_2019_7
+Aarón Salazar,2018-01-01,Herediano U20,AD San Carlos,NA,NA,481107,201801012677481107,667420,Loan,EUR,488174,aaron salazar_herediano u20_ad san carlos_2018_1
+Aarón Suárez,2021-01-01,Alajuelense U20,LD Alajuelense,NA,NA,739616,202101016478739616,1107900,Transfer,EUR,609587,aaron suarez_alajuelense u20_ld alajuelense_2021_1
+Aashish Rai,2022-03-01,Cashmere Tech,Coastal Spirit,75000,0,920765,2022030138381920765,1782888,Transfer,EUR,790682,aashish rai_cashmere tech_coastal spirit_2022_3
+Aashish Rai,2024-02-22,Coastal Spirit,Unknown,25000,NA,920765,2024022238381920765,2228548,Free Agent,EUR,790682,aashish rai_coastal spirit_unknown_2024_2
+Aashish Rai,2021-07-01,Coastal Spirit,Cashmere Tech,NA,0,920765,2021070138381920765,1499070,Transfer,EUR,790682,aashish rai_coastal spirit_cashmere tech_2021_7
+Abbas Assi,2022-07-01,Naft Missan,Shabab Al-Sahel,225000,NA,493132,2022070122845493132,1549106,Unknown,EUR,804192,abbas assi_naft missan_shabab al-sahel_2022_7
+Abbas Assi,2014-07-01,Unknown,Shabab Al-Sahel,NA,NA,493132,2014070122845493132,1549106,Unknown,EUR,804192,abbas assi_unknown_shabab al-sahel_2014_7
+Abbas Assi,2024-07-10,Shabab Al-Sahel,Safa Beirut SC,50000,NA,493132,2024071022845493132,1549111,Transfer,EUR,804192,abbas assi_shabab al-sahel_safa beirut sc_2024_7
+Abdul Aziz,2017-01-01,Persiba,Pusamania Borneo,NA,0,506145,2017010114105506145,738095,Back from Loan,EUR,515443,abdul aziz_persiba_pusamania borneo_2017_1
+Abdul Aziz,2017-01-01,Persiba,Pusamania Borneo,NA,0,304010,201701018985304010,738095,Back from Loan,EUR,515443,abdul aziz_persiba_pusamania borneo_2017_1
